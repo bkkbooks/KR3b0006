@@ -1,0 +1,463 @@
+canonical_identifier: bkk:krp/KR3b0006/bkk/v1/markers/4
+seq: 4
+markers:
+  front:
+  - {type: variant, offset: 0, length: 22, content: 戰威凡兵有以道勝有以威勝有以力勝講武料敵使敵, WYG: 欽定四庫全書尉繚子卷四周尉繚撰束伍令第十六束伍}
+  - {type: page-break, offset: 0, content: '', id: KR3b0006_WYG_004-1a, image: WYG0726/WYG0726-0083c.png}
+  - {type: variant, offset: 0, length: 22, content: 戰威凡兵有以道勝有以威勝有以力勝講武料敵使敵, krp: 欽定四庫全書尉繚子卷四周尉繚撰束伍令第十六束伍}
+  body:
+  - {type: punctuation, offset: 0, content: 《, id: KR3b0006_CHANT_004-bkkpn1}
+  - {type: punctuation, offset: 2, content: 》, id: KR3b0006_CHANT_004-bkkpn2}
+  - {type: xml-element, offset: 2, content: '', id: KR3b0006_CHANT_004-bkkxmlele1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR3b0006_CHANT_004-1a.1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR3b0006_CHANT_004-1a.2}
+  - {type: punctuation, offset: 8, content: ，, id: KR3b0006_CHANT_004-bkkpn3}
+  - {type: 'tls:seg', offset: 8, content: '', id: KR3b0006_CHANT_004-1a.3}
+  - {type: punctuation, offset: 12, content: ，, id: KR3b0006_CHANT_004-bkkpn4}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR3b0006_CHANT_004-1a.4}
+  - {type: punctuation, offset: 16, content: 。, id: KR3b0006_CHANT_004-bkkpn5}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3b0006_CHANT_004-1a.5}
+  - {type: punctuation, offset: 20, content: ，, id: KR3b0006_CHANT_004-bkkpn6}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3b0006_CHANT_004-1a.6}
+  - {type: variant, offset: 23, length: 2, content: 氣失, WYG: 令曰五人為伍共一符收於將吏之所亡伍}
+  - {type: variant, offset: 23, length: 2, content: 氣失, krp: 令曰五人為伍共一符收於將吏之所亡伍}
+  - {type: variant, offset: 26, length: 5, content: 師散雖形全, WYG: 得伍者當之得伍}
+  - {type: variant, offset: 26, length: 5, content: 師散雖形全, krp: 得伍者當之得伍}
+  - {type: punctuation, offset: 28, content: ，, id: KR3b0006_CHANT_004-bkkpn7}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3b0006_CHANT_004-1a.7}
+  - {type: variant, offset: 33, length: 0, content: '', WYG: 亡有賞亡伍不得伍身死家殘亡長得長當之得長不亡有賞亡長不得長身死家殘復戰得首長除之亡將得將當之得將不亡有賞亡將不得將坐離地遁逃之法戰誅之法曰什長得誅十人伯長得誅十長千人之將得誅百人之長萬人之將得誅千人之將左右將軍得誅萬人之將大將軍無不得誅經卒令第十七經卒者以經令分之}
+  - {type: page-break, offset: 33, content: '', id: KR3b0006_WYG_004-1b, image: WYG0726/WYG0726-0083d.png}
+  - {type: variant, offset: 33, length: 0, content: '', krp: 亡有賞亡伍不得伍身死家殘亡長得長當之得長不亡有賞亡長不得長身死家殘復戰得首長除之亡將得將當之得將不亡有賞亡將不得將坐離地遁逃之法戰誅之法曰什長得誅十人伯長得誅十長千人之將得誅百人之長萬人之將得誅千人之將左右將軍得誅萬人之將大將軍無不得誅經卒令第十七經卒者以經令分之}
+  - {type: variant, offset: 34, length: 0, content: '', WYG: 三分焉左軍蒼旗卒戴蒼羽右軍白旗卒戴白羽中軍黄旗卒戴黄羽卒有五章前一行蒼章次二行赤章次三行黄章次四行白章次五行黑章次以經卒亡章者有誅前一五行置章于首次二五行置章于項次三五行置章于胷次四五行置章于腹次五五行置章于腰如此卒無非其吏吏無非其卒見非而不詰見亂而不禁其罪如}
+  - {type: page-break, offset: 34, content: '', id: KR3b0006_WYG_004-2a, image: WYG0726/WYG0726-0084a.png}
+  - {type: variant, offset: 34, length: 0, content: '', krp: 三分焉左軍蒼旗卒戴蒼羽右軍白旗卒戴白羽中軍黄旗卒戴黄羽卒有五章前一行蒼章次二行赤章次三行黄章次四行白章次五行黑章次以經卒亡章者有誅前一五行置章于首次二五行置章于項次三五行置章于胷次四五行置章于腹次五五行置章于腰如此卒無非其吏吏無非其卒見非而不詰見亂而不禁其罪如}
+  - {type: variant, offset: 35, length: 9, content: 用此道勝也審法制明, WYG: 鼓行交鬭則前行進為犯難後行退為辱衆踰五行而前者有}
+  - {type: variant, offset: 35, length: 9, content: 用此道勝也審法制明, krp: 鼓行交鬭則前行進為犯難後行退為辱衆踰五行而前者有}
+  - {type: punctuation, offset: 36, content: ，, id: KR3b0006_CHANT_004-bkkpn8}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR3b0006_CHANT_004-1a.8}
+  - {type: punctuation, offset: 40, content: 。, id: KR3b0006_CHANT_004-bkkpn9}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3b0006_CHANT_004-1a.9}
+  - {type: punctuation, offset: 43, content: ，, id: KR3b0006_CHANT_004-bkkpn10}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3b0006_CHANT_004-1a.10}
+  - {type: variant, offset: 45, length: 1, content: 罰, WYG: 踰}
+  - {type: variant, offset: 45, length: 1, content: 罰, krp: 踰}
+  - {type: punctuation, offset: 46, content: ，, id: KR3b0006_CHANT_004-bkkpn11}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR3b0006_CHANT_004-1a.11}
+  - {type: variant, offset: 46, length: 1, content: 便, WYG: 五}
+  - {type: variant, offset: 46, length: 1, content: 便, krp: 五}
+  - {type: variant, offset: 47, length: 1, content: 器, WYG: 行}
+  - {type: variant, offset: 47, length: 1, content: 器, krp: 行}
+  - {type: variant, offset: 48, length: 1, content: 用, WYG: 而}
+  - {type: variant, offset: 48, length: 1, content: 用, krp: 而}
+  - {type: punctuation, offset: 49, content: ，, id: KR3b0006_CHANT_004-bkkpn12}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR3b0006_CHANT_004-1a.12}
+  - {type: variant, offset: 49, length: 1, content: 使, WYG: 後}
+  - {type: variant, offset: 49, length: 1, content: 使, krp: 後}
+  - {type: variant, offset: 50, length: 1, content: 民, WYG: 者}
+  - {type: variant, offset: 50, length: 1, content: 民, krp: 者}
+  - {type: variant, offset: 52, length: 41, content: 必戰之心此威勝也破軍殺將乘闉發機潰眾奪地成功乃返此力勝也王侯知此以三勝者畢矣夫將卒, WYG: 誅}
+  - {type: variant, offset: 52, length: 41, content: 必戰之心此威勝也破軍殺將乘闉發機潰眾奪地成功乃返此力勝也王侯知此以三勝者畢矣夫將卒, krp: 誅}
+  - {type: punctuation, offset: 56, content: ，, id: KR3b0006_CHANT_004-bkkpn13}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR3b0006_CHANT_004-1a.13}
+  - {type: punctuation, offset: 60, content: 。, id: KR3b0006_CHANT_004-bkkpn14}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR3b0006_CHANT_004-1a.14}
+  - {type: punctuation, offset: 64, content: ，, id: KR3b0006_CHANT_004-bkkpn15}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3b0006_CHANT_004-1a.15}
+  - {type: punctuation, offset: 68, content: ，, id: KR3b0006_CHANT_004-bkkpn16}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3b0006_CHANT_004-1a.16}
+  - {type: substitution, offset: 69, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 72, content: ，, id: KR3b0006_CHANT_004-bkkpn17}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3b0006_CHANT_004-1a.17}
+  - {type: punctuation, offset: 76, content: ，, id: KR3b0006_CHANT_004-bkkpn18}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR3b0006_CHANT_004-1a.18}
+  - {type: punctuation, offset: 80, content: 。, id: KR3b0006_CHANT_004-bkkpn19}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3b0006_CHANT_004-1a.19}
+  - {type: punctuation, offset: 88, content: ，, id: KR3b0006_CHANT_004-bkkpn20}
+  - {type: 'tls:seg', offset: 88, content: '', id: KR3b0006_CHANT_004-1a.20}
+  - {type: punctuation, offset: 90, content: 。, id: KR3b0006_CHANT_004-bkkpn21}
+  - {type: xml-element, offset: 90, content: '', id: KR3b0006_CHANT_004-bkkxmlele2}
+  - {type: xml-element, offset: 90, content: '', id: KR3b0006_CHANT_004-bkkxmlele3}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR3b0006_CHANT_004-2a.1}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR3b0006_CHANT_004-2a.2}
+  - {type: variant, offset: 95, length: 5, content: 戰者民也民, WYG: 知進退先後吏卒}
+  - {type: variant, offset: 95, length: 5, content: 戰者民也民, krp: 知進退先後吏卒}
+  - {type: punctuation, offset: 97, content: ，, id: KR3b0006_CHANT_004-bkkpn22}
+  - {type: 'tls:seg', offset: 97, content: '', id: KR3b0006_CHANT_004-2a.3}
+  - {type: punctuation, offset: 99, content: ；, id: KR3b0006_CHANT_004-bkkpn23}
+  - {type: 'tls:seg', offset: 99, content: '', id: KR3b0006_CHANT_004-2a.4}
+  - {type: variant, offset: 101, length: 221, content: 所以戰者氣也氣實則鬭氣奪則走刑如未加兵未接而所以奪敵者五一曰廟勝之論二曰受命之論三曰踰垠之論四曰深溝高壘之論五曰舉陳加刑之論此五者先料敵而後動是以擊虛奪之也善用兵者能奪人而不奪於人奪者心之機也令者所以一眾心也眾不審則數變數變則令雖出眾不信矣故令之法雖有小過無更小疑無申事所以待眾力也不審所動則數變數變則事雖起眾不安也動事之法雖有小過無更小難無戚故上無疑令則眾不二聽動無疑事則眾不二志古率民者未有不信其心而能得其力者也未有不得其力而能致其死戰者, WYG: 功}
+  - {type: variant, offset: 101, length: 221, content: 所以戰者氣也氣實則鬭氣奪則走刑如未加兵未接而所以奪敵者五一曰廟勝之論二曰受命之論三曰踰垠之論四曰深溝高壘之論五曰舉陳加刑之論此五者先料敵而後動是以擊虛奪之也善用兵者能奪人而不奪於人奪者心之機也令者所以一眾心也眾不審則數變數變則令雖出眾不信矣故令之法雖有小過無更小疑無申事所以待眾力也不審所動則數變數變則事雖起眾不安也動事之法雖有小過無更小難無戚故上無疑令則眾不二聽動無疑事則眾不二志古率民者未有不信其心而能得其力者也未有不得其力而能致其死戰者, krp: 功}
+  - {type: punctuation, offset: 105, content: ，, id: KR3b0006_CHANT_004-bkkpn24}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3b0006_CHANT_004-2a.5}
+  - {type: punctuation, offset: 107, content: 。, id: KR3b0006_CHANT_004-bkkpn25}
+  - {type: 'tls:seg', offset: 107, content: '', id: KR3b0006_CHANT_004-2a.6}
+  - {type: punctuation, offset: 111, content: ，, id: KR3b0006_CHANT_004-bkkpn26}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR3b0006_CHANT_004-2a.7}
+  - {type: punctuation, offset: 115, content: 。, id: KR3b0006_CHANT_004-bkkpn27}
+  - {type: xml-element, offset: 115, content: '', id: KR3b0006_CHANT_004-bkkxmlele4}
+  - {type: xml-element, offset: 115, content: '', id: KR3b0006_CHANT_004-bkkxmlele5}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3b0006_CHANT_004-2a.8}
+  - {type: punctuation, offset: 119, content: ，, id: KR3b0006_CHANT_004-bkkpn28}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR3b0006_CHANT_004-2a.9}
+  - {type: punctuation, offset: 129, content: ：, id: KR3b0006_CHANT_004-bkkpn29}
+  - {type: 'tls:seg', offset: 129, content: '', id: KR3b0006_CHANT_004-2a.10}
+  - {type: punctuation, offset: 135, content: ；, id: KR3b0006_CHANT_004-bkkpn30}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR3b0006_CHANT_004-2a.11}
+  - {type: punctuation, offset: 141, content: ；, id: KR3b0006_CHANT_004-bkkpn31}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR3b0006_CHANT_004-2a.12}
+  - {type: punctuation, offset: 147, content: ；, id: KR3b0006_CHANT_004-bkkpn32}
+  - {type: 'tls:seg', offset: 147, content: '', id: KR3b0006_CHANT_004-2a.13}
+  - {type: punctuation, offset: 155, content: ；, id: KR3b0006_CHANT_004-bkkpn33}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR3b0006_CHANT_004-2a.14}
+  - {type: punctuation, offset: 163, content: 。, id: KR3b0006_CHANT_004-bkkpn34}
+  - {type: 'tls:seg', offset: 163, content: '', id: KR3b0006_CHANT_004-2a.15}
+  - {type: punctuation, offset: 166, content: ，, id: KR3b0006_CHANT_004-bkkpn35}
+  - {type: 'tls:seg', offset: 166, content: '', id: KR3b0006_CHANT_004-2a.16}
+  - {type: punctuation, offset: 172, content: ，, id: KR3b0006_CHANT_004-bkkpn36}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3b0006_CHANT_004-2a.17}
+  - {type: punctuation, offset: 179, content: 。, id: KR3b0006_CHANT_004-bkkpn37}
+  - {type: xml-element, offset: 179, content: '', id: KR3b0006_CHANT_004-bkkxmlele6}
+  - {type: xml-element, offset: 179, content: '', id: KR3b0006_CHANT_004-bkkxmlele7}
+  - {type: 'tls:seg', offset: 179, content: '', id: KR3b0006_CHANT_004-3a.1}
+  - {type: 'tls:seg', offset: 179, content: '', id: KR3b0006_CHANT_004-3a.2}
+  - {type: punctuation, offset: 183, content: ，, id: KR3b0006_CHANT_004-bkkpn38}
+  - {type: 'tls:seg', offset: 183, content: '', id: KR3b0006_CHANT_004-3a.3}
+  - {type: punctuation, offset: 191, content: 。, id: KR3b0006_CHANT_004-bkkpn39}
+  - {type: 'tls:seg', offset: 191, content: '', id: KR3b0006_CHANT_004-3a.4}
+  - {type: punctuation, offset: 197, content: 。, id: KR3b0006_CHANT_004-bkkpn40}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR3b0006_CHANT_004-3a.5}
+  - {type: punctuation, offset: 199, content: 、, id: KR3b0006_CHANT_004-bkkpn41}
+  - {type: substitution, offset: 202, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 205, content: 。, id: KR3b0006_CHANT_004-bkkpn42}
+  - {type: 'tls:seg', offset: 205, content: '', id: KR3b0006_CHANT_004-3a.6}
+  - {type: substitution, offset: 205, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 211, content: ，, id: KR3b0006_CHANT_004-bkkpn43}
+  - {type: 'tls:seg', offset: 211, content: '', id: KR3b0006_CHANT_004-3a.7}
+  - {type: punctuation, offset: 213, content: 、, id: KR3b0006_CHANT_004-bkkpn44}
+  - {type: punctuation, offset: 217, content: ，, id: KR3b0006_CHANT_004-bkkpn45}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR3b0006_CHANT_004-3a.8}
+  - {type: substitution, offset: 217, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 221, content: 。, id: KR3b0006_CHANT_004-bkkpn46}
+  - {type: xml-element, offset: 221, content: '', id: KR3b0006_CHANT_004-bkkxmlele8}
+  - {type: xml-element, offset: 221, content: '', id: KR3b0006_CHANT_004-bkkxmlele9}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR3b0006_CHANT_004-3a.9}
+  - {type: punctuation, offset: 225, content: ，, id: KR3b0006_CHANT_004-bkkpn47}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR3b0006_CHANT_004-3a.10}
+  - {type: punctuation, offset: 231, content: ，, id: KR3b0006_CHANT_004-bkkpn48}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR3b0006_CHANT_004-3a.11}
+  - {type: punctuation, offset: 235, content: 。, id: KR3b0006_CHANT_004-bkkpn49}
+  - {type: 'tls:seg', offset: 235, content: '', id: KR3b0006_CHANT_004-3a.12}
+  - {type: substitution, offset: 239, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 242, content: 。, id: KR3b0006_CHANT_004-bkkpn50}
+  - {type: 'tls:seg', offset: 242, content: '', id: KR3b0006_CHANT_004-3a.13}
+  - {type: punctuation, offset: 249, content: ，, id: KR3b0006_CHANT_004-bkkpn51}
+  - {type: 'tls:seg', offset: 249, content: '', id: KR3b0006_CHANT_004-3a.14}
+  - {type: punctuation, offset: 251, content: 、, id: KR3b0006_CHANT_004-bkkpn52}
+  - {type: punctuation, offset: 255, content: ，, id: KR3b0006_CHANT_004-bkkpn53}
+  - {type: 'tls:seg', offset: 255, content: '', id: KR3b0006_CHANT_004-3a.15}
+  - {type: substitution, offset: 255, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 259, content: 。, id: KR3b0006_CHANT_004-bkkpn54}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR3b0006_CHANT_004-3a.16}
+  - {type: punctuation, offset: 263, content: ，, id: KR3b0006_CHANT_004-bkkpn55}
+  - {type: 'tls:seg', offset: 263, content: '', id: KR3b0006_CHANT_004-3a.17}
+  - {type: punctuation, offset: 269, content: ，, id: KR3b0006_CHANT_004-bkkpn56}
+  - {type: 'tls:seg', offset: 269, content: '', id: KR3b0006_CHANT_004-3a.18}
+  - {type: punctuation, offset: 273, content: 。, id: KR3b0006_CHANT_004-bkkpn57}
+  - {type: 'tls:seg', offset: 273, content: '', id: KR3b0006_CHANT_004-3a.19}
+  - {type: punctuation, offset: 278, content: ，, id: KR3b0006_CHANT_004-bkkpn58}
+  - {type: 'tls:seg', offset: 278, content: '', id: KR3b0006_CHANT_004-3a.20}
+  - {type: substitution, offset: 279, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 283, content: ；, id: KR3b0006_CHANT_004-bkkpn59}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR3b0006_CHANT_004-3a.21}
+  - {type: punctuation, offset: 287, content: ，, id: KR3b0006_CHANT_004-bkkpn60}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR3b0006_CHANT_004-3a.22}
+  - {type: substitution, offset: 288, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 292, content: 。, id: KR3b0006_CHANT_004-bkkpn61}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR3b0006_CHANT_004-3a.23}
+  - {type: punctuation, offset: 296, content: ，, id: KR3b0006_CHANT_004-bkkpn62}
+  - {type: 'tls:seg', offset: 296, content: '', id: KR3b0006_CHANT_004-3a.24}
+  - {type: punctuation, offset: 309, content: ，, id: KR3b0006_CHANT_004-bkkpn63}
+  - {type: 'tls:seg', offset: 309, content: '', id: KR3b0006_CHANT_004-3a.25}
+  - {type: punctuation, offset: 323, content: 。, id: KR3b0006_CHANT_004-bkkpn64}
+  - {type: xml-element, offset: 323, content: '', id: KR3b0006_CHANT_004-bkkxmlele10}
+  - {type: xml-element, offset: 323, content: '', id: KR3b0006_CHANT_004-bkkxmlele11}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR3b0006_CHANT_004-4a.1}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR3b0006_CHANT_004-4a.2}
+  - {type: variant, offset: 324, length: 7, content: 國必有禮信親愛, WYG: 曰鼓}
+  - {type: variant, offset: 324, length: 7, content: 國必有禮信親愛, krp: 曰鼓}
+  - {type: variant, offset: 332, length: 62, content: 義則可以飢易飽國必有孝慈廉恥之俗則可以死易生古者率民必先禮信而後爵祿先廉恥而後刑罰先親愛而後律其身焉故戰者必本乎率身以勵眾士, WYG: 前}
+  - {type: variant, offset: 332, length: 62, content: 義則可以飢易飽國必有孝慈廉恥之俗則可以死易生古者率民必先禮信而後爵祿先廉恥而後刑罰先親愛而後律其身焉故戰者必本乎率身以勵眾士, krp: 前}
+  - {type: punctuation, offset: 333, content: ，, id: KR3b0006_CHANT_004-bkkpn65}
+  - {type: 'tls:seg', offset: 333, content: '', id: KR3b0006_CHANT_004-4a.3}
+  - {type: punctuation, offset: 339, content: ；, id: KR3b0006_CHANT_004-bkkpn66}
+  - {type: 'tls:seg', offset: 339, content: '', id: KR3b0006_CHANT_004-4a.4}
+  - {type: punctuation, offset: 348, content: ，, id: KR3b0006_CHANT_004-bkkpn67}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR3b0006_CHANT_004-4a.5}
+  - {type: punctuation, offset: 354, content: 。, id: KR3b0006_CHANT_004-bkkpn68}
+  - {type: 'tls:seg', offset: 354, content: '', id: KR3b0006_CHANT_004-4a.6}
+  - {type: punctuation, offset: 358, content: ，, id: KR3b0006_CHANT_004-bkkpn69}
+  - {type: 'tls:seg', offset: 358, content: '', id: KR3b0006_CHANT_004-4a.7}
+  - {type: punctuation, offset: 366, content: ，, id: KR3b0006_CHANT_004-bkkpn70}
+  - {type: 'tls:seg', offset: 366, content: '', id: KR3b0006_CHANT_004-4a.8}
+  - {type: punctuation, offset: 373, content: ，, id: KR3b0006_CHANT_004-bkkpn71}
+  - {type: 'tls:seg', offset: 373, content: '', id: KR3b0006_CHANT_004-4a.9}
+  - {type: punctuation, offset: 382, content: 。, id: KR3b0006_CHANT_004-bkkpn72}
+  - {type: xml-element, offset: 382, content: '', id: KR3b0006_CHANT_004-bkkxmlele12}
+  - {type: xml-element, offset: 382, content: '', id: KR3b0006_CHANT_004-bkkxmlele13}
+  - {type: 'tls:seg', offset: 382, content: '', id: KR3b0006_CHANT_004-4a.10}
+  - {type: punctuation, offset: 385, content: ，, id: KR3b0006_CHANT_004-bkkpn73}
+  - {type: 'tls:seg', offset: 385, content: '', id: KR3b0006_CHANT_004-4a.11}
+  - {type: substitution, offset: 392, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 394, content: ，, id: KR3b0006_CHANT_004-bkkpn74}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR3b0006_CHANT_004-4a.12}
+  - {type: variant, offset: 395, length: 117, content: 心之使四支也志不勵則士不死節士不死節則眾不戰勵士之道民之所以生不可不厚也爵列之等死喪之親民之所以營不可不顯也必也因民所生而制之因民所榮而顯之田祿之實飲食之糧親戚同鄉鄉里相勸死生相救兵役相從此民之所勵也使什伍如親戚卒伯如朋友故兵止如堵墻, WYG: 雷霆}
+  - {type: variant, offset: 395, length: 117, content: 心之使四支也志不勵則士不死節士不死節則眾不戰勵士之道民之所以生不可不厚也爵列之等死喪之親民之所以營不可不顯也必也因民所生而制之因民所榮而顯之田祿之實飲食之糧親戚同鄉鄉里相勸死生相救兵役相從此民之所勵也使什伍如親戚卒伯如朋友故兵止如堵墻, krp: 雷霆}
+  - {type: punctuation, offset: 401, content: 。, id: KR3b0006_CHANT_004-bkkpn75}
+  - {type: 'tls:seg', offset: 401, content: '', id: KR3b0006_CHANT_004-4a.13}
+  - {type: punctuation, offset: 404, content: ，, id: KR3b0006_CHANT_004-bkkpn76}
+  - {type: 'tls:seg', offset: 404, content: '', id: KR3b0006_CHANT_004-4a.14}
+  - {type: punctuation, offset: 409, content: ；, id: KR3b0006_CHANT_004-bkkpn77}
+  - {type: 'tls:seg', offset: 409, content: '', id: KR3b0006_CHANT_004-4a.15}
+  - {type: punctuation, offset: 413, content: ，, id: KR3b0006_CHANT_004-bkkpn78}
+  - {type: 'tls:seg', offset: 413, content: '', id: KR3b0006_CHANT_004-4a.16}
+  - {type: substitution, offset: 414, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 417, content: 。, id: KR3b0006_CHANT_004-bkkpn79}
+  - {type: xml-element, offset: 417, content: '', id: KR3b0006_CHANT_004-bkkxmlele14}
+  - {type: xml-element, offset: 417, content: '', id: KR3b0006_CHANT_004-bkkxmlele15}
+  - {type: 'tls:seg', offset: 417, content: '', id: KR3b0006_CHANT_004-5a.1}
+  - {type: 'tls:seg', offset: 417, content: '', id: KR3b0006_CHANT_004-5a.2}
+  - {type: punctuation, offset: 421, content: ，, id: KR3b0006_CHANT_004-bkkpn80}
+  - {type: 'tls:seg', offset: 421, content: '', id: KR3b0006_CHANT_004-5a.3}
+  - {type: punctuation, offset: 426, content: ，, id: KR3b0006_CHANT_004-bkkpn81}
+  - {type: 'tls:seg', offset: 426, content: '', id: KR3b0006_CHANT_004-5a.4}
+  - {type: punctuation, offset: 431, content: ；, id: KR3b0006_CHANT_004-bkkpn82}
+  - {type: 'tls:seg', offset: 431, content: '', id: KR3b0006_CHANT_004-5a.5}
+  - {type: punctuation, offset: 435, content: ，, id: KR3b0006_CHANT_004-bkkpn83}
+  - {type: 'tls:seg', offset: 435, content: '', id: KR3b0006_CHANT_004-5a.6}
+  - {type: punctuation, offset: 439, content: ，, id: KR3b0006_CHANT_004-bkkpn84}
+  - {type: 'tls:seg', offset: 439, content: '', id: KR3b0006_CHANT_004-5a.7}
+  - {type: punctuation, offset: 444, content: ，, id: KR3b0006_CHANT_004-bkkpn85}
+  - {type: 'tls:seg', offset: 444, content: '', id: KR3b0006_CHANT_004-5a.8}
+  - {type: punctuation, offset: 449, content: 。, id: KR3b0006_CHANT_004-bkkpn86}
+  - {type: 'tls:seg', offset: 449, content: '', id: KR3b0006_CHANT_004-5a.9}
+  - {type: punctuation, offset: 458, content: ，, id: KR3b0006_CHANT_004-bkkpn87}
+  - {type: 'tls:seg', offset: 458, content: '', id: KR3b0006_CHANT_004-5a.10}
+  - {type: punctuation, offset: 465, content: 。, id: KR3b0006_CHANT_004-bkkpn88}
+  - {type: 'tls:seg', offset: 465, content: '', id: KR3b0006_CHANT_004-5a.11}
+  - {type: punctuation, offset: 469, content: ，, id: KR3b0006_CHANT_004-bkkpn89}
+  - {type: 'tls:seg', offset: 469, content: '', id: KR3b0006_CHANT_004-5a.12}
+  - {type: punctuation, offset: 473, content: ，, id: KR3b0006_CHANT_004-bkkpn90}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR3b0006_CHANT_004-5a.13}
+  - {type: punctuation, offset: 477, content: ，, id: KR3b0006_CHANT_004-bkkpn91}
+  - {type: 'tls:seg', offset: 477, content: '', id: KR3b0006_CHANT_004-5a.14}
+  - {type: punctuation, offset: 481, content: ，, id: KR3b0006_CHANT_004-bkkpn92}
+  - {type: 'tls:seg', offset: 481, content: '', id: KR3b0006_CHANT_004-5a.15}
+  - {type: punctuation, offset: 485, content: ，, id: KR3b0006_CHANT_004-bkkpn93}
+  - {type: 'tls:seg', offset: 485, content: '', id: KR3b0006_CHANT_004-5a.16}
+  - {type: punctuation, offset: 489, content: ，, id: KR3b0006_CHANT_004-bkkpn94}
+  - {type: 'tls:seg', offset: 489, content: '', id: KR3b0006_CHANT_004-5a.17}
+  - {type: punctuation, offset: 495, content: 。, id: KR3b0006_CHANT_004-bkkpn95}
+  - {type: xml-element, offset: 495, content: '', id: KR3b0006_CHANT_004-bkkxmlele16}
+  - {type: xml-element, offset: 495, content: '', id: KR3b0006_CHANT_004-bkkxmlele17}
+  - {type: 'tls:seg', offset: 495, content: '', id: KR3b0006_CHANT_004-6a.1}
+  - {type: 'tls:seg', offset: 495, content: '', id: KR3b0006_CHANT_004-6a.2}
+  - {type: punctuation, offset: 501, content: ，, id: KR3b0006_CHANT_004-bkkpn96}
+  - {type: 'tls:seg', offset: 501, content: '', id: KR3b0006_CHANT_004-6a.3}
+  - {type: punctuation, offset: 506, content: ；, id: KR3b0006_CHANT_004-bkkpn97}
+  - {type: 'tls:seg', offset: 506, content: '', id: KR3b0006_CHANT_004-6a.4}
+  - {type: punctuation, offset: 512, content: ，, id: KR3b0006_CHANT_004-bkkpn98}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR3b0006_CHANT_004-6a.5}
+  - {type: punctuation, offset: 516, content: ；, id: KR3b0006_CHANT_004-bkkpn99}
+  - {type: 'tls:seg', offset: 516, content: '', id: KR3b0006_CHANT_004-6a.6}
+  - {type: variant, offset: 516, length: 1, content: 車, WYG: 莫敢當其前莫敢躡其後言有經也勒卒令第十八金鼓鈴旗四者各有法鼓之則進重鼓則擊金之則止重金則退鈴傳令也旗麾之左則左麾之右則右奇兵則反是一鼓一擊而左一鼓一擊而右一步一鼓步鼓也十步一鼓趨鼓也音}
+  - {type: page-break, offset: 516, content: '', id: KR3b0006_WYG_004-2b, image: WYG0726/WYG0726-0084b.png}
+  - {type: variant, offset: 516, length: 1, content: 車, krp: 莫敢當其前莫敢躡其後言有經也勒卒令第十八金鼓鈴旗四者各有法鼓之則進重鼓則擊金之則止重金則退鈴傳令也旗麾之左則左麾之右則右奇兵則反是一鼓一擊而左一鼓一擊而右一步一鼓步鼓也十步一鼓趨鼓也音}
+  - {type: variant, offset: 518, length: 3, content: 結轍士, WYG: 絶騖鼓也商將鼓也角帥鼓也小鼓伯鼓也三鼓同則將帥伯其心一也奇兵則反是鼓失次者有誅諠譁者有誅}
+  - {type: variant, offset: 518, length: 3, content: 結轍士, krp: 絶騖鼓也商將鼓也角帥鼓也小鼓伯鼓也三鼓同則將帥伯其心一也奇兵則反是鼓失次者有誅諠譁者有誅}
+  - {type: punctuation, offset: 520, content: ，, id: KR3b0006_CHANT_004-bkkpn100}
+  - {type: 'tls:seg', offset: 520, content: '', id: KR3b0006_CHANT_004-6a.7}
+  - {type: variant, offset: 522, length: 4, content: 旋踵此本, WYG: 聽金鼓鈴旗而動者有誅百人而敎戰敎成合之千人千人敎成合之萬人萬人敎成會之于三軍三軍之衆有分有合為大}
+  - {type: page-break, offset: 522, content: '', id: KR3b0006_WYG_004-3a, image: WYG0726/WYG0726-0084c.png}
+  - {type: variant, offset: 522, length: 4, content: 旋踵此本, krp: 聽金鼓鈴旗而動者有誅百人而敎戰敎成合之千人千人敎成合之萬人萬人敎成會之于三軍三軍之衆有分有合為大}
+  - {type: punctuation, offset: 524, content: ，, id: KR3b0006_CHANT_004-bkkpn101}
+  - {type: 'tls:seg', offset: 524, content: '', id: KR3b0006_CHANT_004-6a.8}
+  - {type: variant, offset: 528, length: 0, content: '', WYG: 法敎成試之以閱方亦勝圎亦勝錯斜亦勝臨險亦勝敵在山緣而從之敵在淵没而從之求敵如求亡子從之無疑故能敗敵而制其命夫蚤決先定若計不先定慮不蚤決則進退不定疑生必敗故正兵貴先奇兵貴後或先或後制敵者也世將不知法者專命而行先擊而勇無不敗者也其舉有疑而不疑其往有信而不信其致有遲疾而不遲疾是三者戰之累也將令第十九將軍受命君必先謀於廟行令于廷君身以斧鉞授將曰左右中軍皆有分職若踰分而上請者死軍無二令二令者誅留令者誅失令者誅將軍告曰出國門之外期日中設營表置轅門期之如過時則坐法將軍入營則閉門清}
+  - {type: page-break, offset: 528, content: '', id: KR3b0006_WYG_004-3b, image: WYG0726/WYG0726-0084d.png}
+  - {type: variant, offset: 528, length: 0, content: '', krp: 法敎成試之以閱方亦勝圎亦勝錯斜亦勝臨險亦勝敵在山緣而從之敵在淵没而從之求敵如求亡子從之無疑故能敗敵而制其命夫蚤決先定若計不先定慮不蚤決則進退不定疑生必敗故正兵貴先奇兵貴後或先或後制敵者也世將不知法者專命而行先擊而勇無不敗者也其舉有疑而不疑其往有信而不信其致有遲疾而不遲疾是三者戰之累也將令第十九將軍受命君必先謀於廟行令于廷君身以斧鉞授將曰左右中軍皆有分職若踰分而上請者死軍無二令二令者誅留令者誅失令者誅將軍告曰出國門之外期日中設營表置轅門期之如過時則坐法將軍入營則閉門清}
+  - {type: variant, offset: 529, length: 1, content: 也, WYG: 有敢行者誅有敢髙言者誅有敢不從令者誅踵軍令第二十所謂踵軍者去大軍百里期于會}
+  - {type: page-break, offset: 529, content: '', id: KR3b0006_WYG_004-4a, image: WYG0726/WYG0726-0085a.png}
+  - {type: variant, offset: 529, length: 1, content: 也, krp: 有敢行者誅有敢髙言者誅有敢不從令者誅踵軍令第二十所謂踵軍者去大軍百里期于會}
+  - {type: punctuation, offset: 530, content: 。, id: KR3b0006_CHANT_004-bkkpn102}
+  - {type: xml-element, offset: 530, content: '', id: KR3b0006_CHANT_004-bkkxmlele18}
+  - {type: xml-element, offset: 530, content: '', id: KR3b0006_CHANT_004-bkkxmlele19}
+  - {type: 'tls:seg', offset: 530, content: '', id: KR3b0006_CHANT_004-6a.9}
+  - {type: punctuation, offset: 531, content: 、, id: KR3b0006_CHANT_004-bkkpn103}
+  - {type: variant, offset: 531, length: 11, content: 所以養民也城所以守地也, WYG: 為三日熟食前軍而行為}
+  - {type: variant, offset: 531, length: 11, content: 所以養民也城所以守地也, krp: 為三日熟食前軍而行為}
+  - {type: punctuation, offset: 536, content: ，, id: KR3b0006_CHANT_004-bkkpn104}
+  - {type: 'tls:seg', offset: 536, content: '', id: KR3b0006_CHANT_004-6a.10}
+  - {type: punctuation, offset: 537, content: 、, id: KR3b0006_CHANT_004-bkkpn105}
+  - {type: punctuation, offset: 542, content: ，, id: KR3b0006_CHANT_004-bkkpn106}
+  - {type: 'tls:seg', offset: 542, content: '', id: KR3b0006_CHANT_004-6a.11}
+  - {type: punctuation, offset: 543, content: 、, id: KR3b0006_CHANT_004-bkkpn107}
+  - {type: variant, offset: 543, length: 21, content: 所以守城也故務耕者其民不飢務守者其地不危務, WYG: 合之表合表乃起踵軍饗士使為之戰勢是謂趨}
+  - {type: variant, offset: 543, length: 21, content: 所以守城也故務耕者其民不飢務守者其地不危務, krp: 合之表合表乃起踵軍饗士使為之戰勢是謂趨}
+  - {type: punctuation, offset: 548, content: 。, id: KR3b0006_CHANT_004-bkkpn108}
+  - {type: 'tls:seg', offset: 548, content: '', id: KR3b0006_CHANT_004-6a.12}
+  - {type: punctuation, offset: 552, content: 、, id: KR3b0006_CHANT_004-bkkpn109}
+  - {type: punctuation, offset: 556, content: ，, id: KR3b0006_CHANT_004-bkkpn110}
+  - {type: 'tls:seg', offset: 556, content: '', id: KR3b0006_CHANT_004-6a.13}
+  - {type: punctuation, offset: 559, content: 、, id: KR3b0006_CHANT_004-bkkpn111}
+  - {type: punctuation, offset: 563, content: ，, id: KR3b0006_CHANT_004-bkkpn112}
+  - {type: 'tls:seg', offset: 563, content: '', id: KR3b0006_CHANT_004-6a.14}
+  - {type: punctuation, offset: 566, content: 、, id: KR3b0006_CHANT_004-bkkpn113}
+  - {type: variant, offset: 566, length: 0, content: '', WYG: 也興軍者前踵軍而行合表乃起去大軍一倍}
+  - {type: variant, offset: 566, length: 0, content: '', krp: 也興軍者前踵軍而行合表乃起去大軍一倍}
+  - {type: variant, offset: 567, length: 1, content: 城, WYG: 道去踵軍百里期于會地為六日熟食使為戰備分卒據要害戰利則追北按兵而趨之踵軍遇有還者誅之所謂諸將之兵在四奇之内者勝也兵有什伍有分有合豫為之職守要塞闗梁而分居之戰合表起即皆㑹也大軍為計日之食起戰具無}
+  - {type: variant, offset: 567, length: 1, content: 城, krp: 道去踵軍百里期于會地為六日熟食使為戰備分卒據要害戰利則追北按兵而趨之踵軍遇有還者誅之所謂諸將之兵在四奇之内者勝也兵有什伍有分有合豫為之職守要塞闗梁而分居之戰合表起即皆㑹也大軍為計日之食起戰具無}
+  - {type: variant, offset: 569, length: 2, content: 圍三, WYG: 及也令行而起不如令}
+  - {type: page-break, offset: 569, content: '', id: KR3b0006_WYG_004-4b, image: WYG0726/WYG0726-0085b.png}
+  - {type: variant, offset: 569, length: 2, content: 圍三, krp: 及也令行而起不如令}
+  - {type: punctuation, offset: 570, content: 。, id: KR3b0006_CHANT_004-bkkpn114}
+  - {type: 'tls:seg', offset: 570, content: '', id: KR3b0006_CHANT_004-6a.15}
+  - {type: punctuation, offset: 572, content: 、, id: KR3b0006_CHANT_004-bkkpn115}
+  - {type: variant, offset: 572, length: 1, content: 先, WYG: 誅凡稱分塞者四境之内當興軍踵軍既行則四境之民無得行者奉}
+  - {type: variant, offset: 572, length: 1, content: 先, krp: 誅凡稱分塞者四境之内當興軍踵軍既行則四境之民無得行者奉}
+  - {type: variant, offset: 575, length: 2, content: 本務, WYG: 命授持符節名為順職之吏非順職之吏而行者誅之戰合表起順職之吏乃行用以相參故欲戰先安内}
+  - {type: variant, offset: 575, length: 2, content: 本務, krp: 命授持符節名為順職之吏非順職之吏而行者誅之戰合表起順職之吏乃行用以相參故欲戰先安内}
+  - {type: punctuation, offset: 578, content: ，, id: KR3b0006_CHANT_004-bkkpn116}
+  - {type: 'tls:seg', offset: 578, content: '', id: KR3b0006_CHANT_004-6a.16}
+  - {type: variant, offset: 578, length: 258, content: 本務者兵最急故先王務專於兵專於兵其本有五焉委積不多則士不行賞祿不厚則民不勸武士不選則眾不強備用不便則力不壯刑賞不中則眾不畏先王務此五者故靜能守其所固動能成其所欲夫以居攻出則居欲重陣欲堅發欲畢鬭欲齊王國富民霸國富士僅存之國富大夫亡國富倉府所謂上滿下漏患無所救故曰舉賢任能不時日而事利明法審令不卜筮而事吉貴功養勞不禱祠而得福又曰天時不如地利地利不如人和聖人所貴人事而已夫勤勞之師將不先己暑不張蓋寒不重衣有登降之險將必下步軍井成而後飲軍食熟而後飯軍壘成而後舍軍不畢食亦不火食飢飽勞佚寒暑必以身同之如此則師雖久而不老雖老不弊, WYG: 尉繚子卷四}
+  - {type: variant, offset: 578, length: 258, content: 本務者兵最急故先王務專於兵專於兵其本有五焉委積不多則士不行賞祿不厚則民不勸武士不選則眾不強備用不便則力不壯刑賞不中則眾不畏先王務此五者故靜能守其所固動能成其所欲夫以居攻出則居欲重陣欲堅發欲畢鬭欲齊王國富民霸國富士僅存之國富大夫亡國富倉府所謂上滿下漏患無所救故曰舉賢任能不時日而事利明法審令不卜筮而事吉貴功養勞不禱祠而得福又曰天時不如地利地利不如人和聖人所貴人事而已夫勤勞之師將不先己暑不張蓋寒不重衣有登降之險將必下步軍井成而後飲軍食熟而後飯軍壘成而後舍軍不畢食亦不火食飢飽勞佚寒暑必以身同之如此則師雖久而不老雖老不弊, krp: 尉繚子卷四}
+  - {type: punctuation, offset: 581, content: 、, id: KR3b0006_CHANT_004-bkkpn117}
+  - {type: punctuation, offset: 584, content: 。, id: KR3b0006_CHANT_004-bkkpn118}
+  - {type: xml-element, offset: 584, content: '', id: KR3b0006_CHANT_004-bkkxmlele20}
+  - {type: xml-element, offset: 584, content: '', id: KR3b0006_CHANT_004-bkkxmlele21}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR3b0006_CHANT_004-7a.1}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR3b0006_CHANT_004-7a.2}
+  - {type: punctuation, offset: 591, content: ，, id: KR3b0006_CHANT_004-bkkpn119}
+  - {type: 'tls:seg', offset: 591, content: '', id: KR3b0006_CHANT_004-7a.3}
+  - {type: punctuation, offset: 594, content: ，, id: KR3b0006_CHANT_004-bkkpn120}
+  - {type: 'tls:seg', offset: 594, content: '', id: KR3b0006_CHANT_004-7a.4}
+  - {type: punctuation, offset: 599, content: ：, id: KR3b0006_CHANT_004-bkkpn121}
+  - {type: 'tls:seg', offset: 599, content: '', id: KR3b0006_CHANT_004-7a.5}
+  - {type: punctuation, offset: 603, content: ，, id: KR3b0006_CHANT_004-bkkpn122}
+  - {type: 'tls:seg', offset: 603, content: '', id: KR3b0006_CHANT_004-7a.6}
+  - {type: punctuation, offset: 607, content: ；, id: KR3b0006_CHANT_004-bkkpn123}
+  - {type: 'tls:seg', offset: 607, content: '', id: KR3b0006_CHANT_004-7a.7}
+  - {type: punctuation, offset: 611, content: ，, id: KR3b0006_CHANT_004-bkkpn124}
+  - {type: 'tls:seg', offset: 611, content: '', id: KR3b0006_CHANT_004-7a.8}
+  - {type: punctuation, offset: 615, content: ；, id: KR3b0006_CHANT_004-bkkpn125}
+  - {type: 'tls:seg', offset: 615, content: '', id: KR3b0006_CHANT_004-7a.9}
+  - {type: punctuation, offset: 619, content: ，, id: KR3b0006_CHANT_004-bkkpn126}
+  - {type: 'tls:seg', offset: 619, content: '', id: KR3b0006_CHANT_004-7a.10}
+  - {type: substitution, offset: 620, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 623, content: ；, id: KR3b0006_CHANT_004-bkkpn127}
+  - {type: 'tls:seg', offset: 623, content: '', id: KR3b0006_CHANT_004-7a.11}
+  - {type: punctuation, offset: 627, content: ，, id: KR3b0006_CHANT_004-bkkpn128}
+  - {type: 'tls:seg', offset: 627, content: '', id: KR3b0006_CHANT_004-7a.12}
+  - {type: punctuation, offset: 631, content: ；, id: KR3b0006_CHANT_004-bkkpn129}
+  - {type: 'tls:seg', offset: 631, content: '', id: KR3b0006_CHANT_004-7a.13}
+  - {type: punctuation, offset: 635, content: ，, id: KR3b0006_CHANT_004-bkkpn130}
+  - {type: 'tls:seg', offset: 635, content: '', id: KR3b0006_CHANT_004-7a.14}
+  - {type: substitution, offset: 636, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 639, content: 。, id: KR3b0006_CHANT_004-bkkpn131}
+  - {type: 'tls:seg', offset: 639, content: '', id: KR3b0006_CHANT_004-7a.15}
+  - {type: punctuation, offset: 645, content: ，, id: KR3b0006_CHANT_004-bkkpn132}
+  - {type: 'tls:seg', offset: 645, content: '', id: KR3b0006_CHANT_004-7a.16}
+  - {type: punctuation, offset: 652, content: ，, id: KR3b0006_CHANT_004-bkkpn133}
+  - {type: 'tls:seg', offset: 652, content: '', id: KR3b0006_CHANT_004-7a.17}
+  - {type: punctuation, offset: 658, content: 。, id: KR3b0006_CHANT_004-bkkpn134}
+  - {type: xml-element, offset: 658, content: '', id: KR3b0006_CHANT_004-bkkxmlele22}
+  - {type: xml-element, offset: 658, content: '', id: KR3b0006_CHANT_004-bkkxmlele23}
+  - {type: 'tls:seg', offset: 658, content: '', id: KR3b0006_CHANT_004-8a.1}
+  - {type: 'tls:seg', offset: 658, content: '', id: KR3b0006_CHANT_004-8a.2}
+  - {type: punctuation, offset: 663, content: ，, id: KR3b0006_CHANT_004-bkkpn135}
+  - {type: 'tls:seg', offset: 663, content: '', id: KR3b0006_CHANT_004-8a.3}
+  - {type: punctuation, offset: 667, content: ，, id: KR3b0006_CHANT_004-bkkpn136}
+  - {type: 'tls:seg', offset: 667, content: '', id: KR3b0006_CHANT_004-8a.4}
+  - {type: substitution, offset: 667, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4111}}
+  - {type: punctuation, offset: 670, content: ，, id: KR3b0006_CHANT_004-bkkpn137}
+  - {type: 'tls:seg', offset: 670, content: '', id: KR3b0006_CHANT_004-8a.5}
+  - {type: punctuation, offset: 673, content: ，, id: KR3b0006_CHANT_004-bkkpn138}
+  - {type: 'tls:seg', offset: 673, content: '', id: KR3b0006_CHANT_004-8a.6}
+  - {type: punctuation, offset: 676, content: 。, id: KR3b0006_CHANT_004-bkkpn139}
+  - {type: xml-element, offset: 676, content: '', id: KR3b0006_CHANT_004-bkkxmlele24}
+  - {type: xml-element, offset: 676, content: '', id: KR3b0006_CHANT_004-bkkxmlele25}
+  - {type: 'tls:seg', offset: 676, content: '', id: KR3b0006_CHANT_004-8a.7}
+  - {type: punctuation, offset: 680, content: ，, id: KR3b0006_CHANT_004-bkkpn140}
+  - {type: 'tls:seg', offset: 680, content: '', id: KR3b0006_CHANT_004-8a.8}
+  - {type: punctuation, offset: 684, content: ，, id: KR3b0006_CHANT_004-bkkpn141}
+  - {type: 'tls:seg', offset: 684, content: '', id: KR3b0006_CHANT_004-8a.9}
+  - {type: punctuation, offset: 691, content: ，, id: KR3b0006_CHANT_004-bkkpn142}
+  - {type: 'tls:seg', offset: 691, content: '', id: KR3b0006_CHANT_004-8a.10}
+  - {type: punctuation, offset: 696, content: 。, id: KR3b0006_CHANT_004-bkkpn143}
+  - {type: 'tls:seg', offset: 696, content: '', id: KR3b0006_CHANT_004-8a.11}
+  - {type: punctuation, offset: 702, content: ，, id: KR3b0006_CHANT_004-bkkpn144}
+  - {type: 'tls:seg', offset: 702, content: '', id: KR3b0006_CHANT_004-8a.12}
+  - {type: punctuation, offset: 706, content: 。, id: KR3b0006_CHANT_004-bkkpn145}
+  - {type: xml-element, offset: 706, content: '', id: KR3b0006_CHANT_004-bkkxmlele26}
+  - {type: xml-element, offset: 706, content: '', id: KR3b0006_CHANT_004-bkkxmlele27}
+  - {type: 'tls:seg', offset: 706, content: '', id: KR3b0006_CHANT_004-9a.1}
+  - {type: 'tls:seg', offset: 706, content: '', id: KR3b0006_CHANT_004-9a.2}
+  - {type: punctuation, offset: 708, content: ：, id: KR3b0006_CHANT_004-bkkpn146}
+  - {type: 'tls:seg', offset: 708, content: '', id: KR3b0006_CHANT_004-9a.3}
+  - {type: punctuation, offset: 712, content: ，, id: KR3b0006_CHANT_004-bkkpn147}
+  - {type: 'tls:seg', offset: 712, content: '', id: KR3b0006_CHANT_004-9a.4}
+  - {type: punctuation, offset: 718, content: ；, id: KR3b0006_CHANT_004-bkkpn148}
+  - {type: 'tls:seg', offset: 718, content: '', id: KR3b0006_CHANT_004-9a.5}
+  - {type: punctuation, offset: 722, content: ，, id: KR3b0006_CHANT_004-bkkpn149}
+  - {type: 'tls:seg', offset: 722, content: '', id: KR3b0006_CHANT_004-9a.6}
+  - {type: punctuation, offset: 728, content: ；, id: KR3b0006_CHANT_004-bkkpn150}
+  - {type: 'tls:seg', offset: 728, content: '', id: KR3b0006_CHANT_004-9a.7}
+  - {type: punctuation, offset: 732, content: ，, id: KR3b0006_CHANT_004-bkkpn151}
+  - {type: 'tls:seg', offset: 732, content: '', id: KR3b0006_CHANT_004-9a.8}
+  - {type: punctuation, offset: 738, content: 。, id: KR3b0006_CHANT_004-bkkpn152}
+  - {type: 'tls:seg', offset: 738, content: '', id: KR3b0006_CHANT_004-9a.9}
+  - {type: punctuation, offset: 740, content: ：, id: KR3b0006_CHANT_004-bkkpn153}
+  - {type: 'tls:seg', offset: 740, content: '', id: KR3b0006_CHANT_004-9a.10}
+  - {type: punctuation, offset: 746, content: ，, id: KR3b0006_CHANT_004-bkkpn154}
+  - {type: 'tls:seg', offset: 746, content: '', id: KR3b0006_CHANT_004-9a.11}
+  - {type: punctuation, offset: 752, content: 。, id: KR3b0006_CHANT_004-bkkpn155}
+  - {type: 'tls:seg', offset: 752, content: '', id: KR3b0006_CHANT_004-9a.12}
+  - {type: punctuation, offset: 756, content: ，, id: KR3b0006_CHANT_004-bkkpn156}
+  - {type: 'tls:seg', offset: 756, content: '', id: KR3b0006_CHANT_004-9a.13}
+  - {type: punctuation, offset: 760, content: 。, id: KR3b0006_CHANT_004-bkkpn157}
+  - {type: xml-element, offset: 760, content: '', id: KR3b0006_CHANT_004-bkkxmlele28}
+  - {type: xml-element, offset: 760, content: '', id: KR3b0006_CHANT_004-bkkxmlele29}
+  - {type: 'tls:seg', offset: 760, content: '', id: KR3b0006_CHANT_004-10a.1}
+  - {type: 'tls:seg', offset: 760, content: '', id: KR3b0006_CHANT_004-10a.2}
+  - {type: punctuation, offset: 765, content: ，, id: KR3b0006_CHANT_004-bkkpn158}
+  - {type: 'tls:seg', offset: 765, content: '', id: KR3b0006_CHANT_004-10a.3}
+  - {type: punctuation, offset: 769, content: ：, id: KR3b0006_CHANT_004-bkkpn159}
+  - {type: 'tls:seg', offset: 769, content: '', id: KR3b0006_CHANT_004-10a.4}
+  - {type: punctuation, offset: 773, content: ，, id: KR3b0006_CHANT_004-bkkpn160}
+  - {type: 'tls:seg', offset: 773, content: '', id: KR3b0006_CHANT_004-10a.5}
+  - {type: punctuation, offset: 777, content: ，, id: KR3b0006_CHANT_004-bkkpn161}
+  - {type: 'tls:seg', offset: 777, content: '', id: KR3b0006_CHANT_004-10a.6}
+  - {type: punctuation, offset: 782, content: ，, id: KR3b0006_CHANT_004-bkkpn162}
+  - {type: 'tls:seg', offset: 782, content: '', id: KR3b0006_CHANT_004-10a.7}
+  - {type: punctuation, offset: 786, content: ，, id: KR3b0006_CHANT_004-bkkpn163}
+  - {type: 'tls:seg', offset: 786, content: '', id: KR3b0006_CHANT_004-10a.8}
+  - {type: punctuation, offset: 792, content: ，, id: KR3b0006_CHANT_004-bkkpn164}
+  - {type: 'tls:seg', offset: 792, content: '', id: KR3b0006_CHANT_004-10a.9}
+  - {type: punctuation, offset: 798, content: ，, id: KR3b0006_CHANT_004-bkkpn165}
+  - {type: 'tls:seg', offset: 798, content: '', id: KR3b0006_CHANT_004-10a.10}
+  - {type: punctuation, offset: 804, content: ，, id: KR3b0006_CHANT_004-bkkpn166}
+  - {type: 'tls:seg', offset: 804, content: '', id: KR3b0006_CHANT_004-10a.11}
+  - {type: punctuation, offset: 808, content: ，, id: KR3b0006_CHANT_004-bkkpn167}
+  - {type: 'tls:seg', offset: 808, content: '', id: KR3b0006_CHANT_004-10a.12}
+  - {type: punctuation, offset: 812, content: 。, id: KR3b0006_CHANT_004-bkkpn168}
+  - {type: 'tls:seg', offset: 812, content: '', id: KR3b0006_CHANT_004-10a.13}
+  - {type: punctuation, offset: 814, content: 、, id: KR3b0006_CHANT_004-bkkpn169}
+  - {type: punctuation, offset: 816, content: 、, id: KR3b0006_CHANT_004-bkkpn170}
+  - {type: punctuation, offset: 823, content: 。, id: KR3b0006_CHANT_004-bkkpn171}
+  - {type: 'tls:seg', offset: 823, content: '', id: KR3b0006_CHANT_004-10a.14}
+  - {type: punctuation, offset: 825, content: ，, id: KR3b0006_CHANT_004-bkkpn172}
+  - {type: 'tls:seg', offset: 825, content: '', id: KR3b0006_CHANT_004-10a.15}
+  - {type: punctuation, offset: 832, content: ，, id: KR3b0006_CHANT_004-bkkpn173}
+  - {type: 'tls:seg', offset: 832, content: '', id: KR3b0006_CHANT_004-10a.16}
+  - {type: punctuation, offset: 836, content: 。, id: KR3b0006_CHANT_004-bkkpn174}
+  - {type: xml-element, offset: 836, content: '', id: KR3b0006_CHANT_004-bkkxmlele30}
+  back: []
+hash: sha256:dd361adf96a4a305ec528b64a69c7758ee3668100940f586cb1950f9169e8c7b

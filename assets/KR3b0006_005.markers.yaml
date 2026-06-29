@@ -1,0 +1,443 @@
+canonical_identifier: bkk:krp/KR3b0006/bkk/v1/markers/5
+seq: 5
+markers:
+  front:
+  - {type: variant, offset: 0, length: 2, content: 攻權, WYG: 欽定四庫全書尉繚子卷五周尉繚撰}
+  - {type: page-break, offset: 0, content: '', id: KR3b0006_WYG_005-1a, image: WYG0726/WYG0726-0085c.png}
+  - {type: variant, offset: 0, length: 2, content: 攻權, krp: 欽定四庫全書尉繚子卷五周尉繚撰}
+  body:
+  - {type: punctuation, offset: 0, content: 《, id: KR3b0006_CHANT_005-bkkpn1}
+  - {type: punctuation, offset: 2, content: 》, id: KR3b0006_CHANT_005-bkkpn2}
+  - {type: xml-element, offset: 2, content: '', id: KR3b0006_CHANT_005-bkkxmlele1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR3b0006_CHANT_005-1a.1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR3b0006_CHANT_005-1a.2}
+  - {type: variant, offset: 3, length: 0, content: '', WYG: 敎上第二十一兵之敎令分營居陳有非令而進退者如犯敎之罪前行者前行敎之後行者後行敎之左行者左行敎之右行者右行敎之敎舉五人其甲首有賞弗敎如犯敎之罪羅地者自揭其伍伍内互掲之免其罪凡伍臨陳若一人有不盡死於敵則敎者如犯法者之罪凡什保什若亡一人而九人不盡死於敵則敎者如犯法者之罪自什}
+  - {type: page-break, offset: 3, content: '', id: KR3b0006_WYG_005-1b, image: WYG0726/WYG0726-0085d.png}
+  - {type: variant, offset: 3, length: 0, content: '', krp: 敎上第二十一兵之敎令分營居陳有非令而進退者如犯敎之罪前行者前行敎之後行者後行敎之左行者左行敎之右行者右行敎之敎舉五人其甲首有賞弗敎如犯敎之罪羅地者自揭其伍伍内互掲之免其罪凡伍臨陳若一人有不盡死於敵則敎者如犯法者之罪凡什保什若亡一人而九人不盡死於敵則敎者如犯法者之罪自什}
+  - {type: variant, offset: 4, length: 1, content: 靜, WYG: 上至於裨將有不若法者則敎者如犯法者之罪凡明刑罰正勸賞必在乎兵敎之法將異其旗卒異其章左軍章左肩右軍章右肩中軍章胸前書其章曰某甲某士前後章各五行尊章置首上其次差降之伍長敎其四人以板為鼓以瓦為金以竿為旗擊鼓而進低旗則趨擊金而退麾而左之麾而右之金鼓俱擊而坐伍長敎成合之什長什長敎成合之卒長卒長敎成合之伯長伯長敎成合之兵尉兵尉敎成合之裨將裨將敎成合之大將大將敎成陳於中野置大表三百步而一既陳去表百步而決百步而趨百步而騖習戰以成其節為之賞罰自尉吏而下盡有旗戰}
+  - {type: page-break, offset: 4, content: '', id: KR3b0006_WYG_005-2a, image: WYG0726/WYG0726-0086a.png}
+  - {type: variant, offset: 4, length: 1, content: 靜, krp: 上至於裨將有不若法者則敎者如犯法者之罪凡明刑罰正勸賞必在乎兵敎之法將異其旗卒異其章左軍章左肩右軍章右肩中軍章胸前書其章曰某甲某士前後章各五行尊章置首上其次差降之伍長敎其四人以板為鼓以瓦為金以竿為旗擊鼓而進低旗則趨擊金而退麾而左之麾而右之金鼓俱擊而坐伍長敎成合之什長什長敎成合之卒長卒長敎成合之伯長伯長敎成合之兵尉兵尉敎成合之裨將裨將敎成合之大將大將敎成陳於中野置大表三百步而一既陳去表百步而決百步而趨百步而騖習戰以成其節為之賞罰自尉吏而下盡有旗戰}
+  - {type: punctuation, offset: 6, content: ，, id: KR3b0006_CHANT_005-bkkpn3}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR3b0006_CHANT_005-1a.3}
+  - {type: variant, offset: 6, length: 0, content: '', WYG: 得旗者各視其所得之爵以明賞勸之心戰勝在乎立威立威在乎戮力戮力在乎正罰正罰者所以明賞也令民背}
+  - {type: variant, offset: 6, length: 0, content: '', krp: 得旗者各視其所得之爵以明賞勸之心戰勝在乎立威立威在乎戮力戮力在乎正罰正罰者所以明賞也令民背}
+  - {type: variant, offset: 7, length: 4, content: 以專勝力, WYG: 門之限決死生之}
+  - {type: variant, offset: 7, length: 4, content: 以專勝力, krp: 門之限決死生之}
+  - {type: punctuation, offset: 10, content: 。, id: KR3b0006_CHANT_005-bkkpn4}
+  - {type: xml-element, offset: 10, content: '', id: KR3b0006_CHANT_005-bkkxmlele2}
+  - {type: xml-element, offset: 10, content: '', id: KR3b0006_CHANT_005-bkkxmlele3}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3b0006_CHANT_005-1a.4}
+  - {type: variant, offset: 12, length: 3, content: 者弱心, WYG: 敎之死而不}
+  - {type: variant, offset: 12, length: 3, content: 者弱心, krp: 敎之死而不}
+  - {type: punctuation, offset: 14, content: ，, id: KR3b0006_CHANT_005-bkkpn5}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3b0006_CHANT_005-1a.5}
+  - {type: variant, offset: 17, length: 2, content: 背夫, WYG: 有以也令守者必固戰者必鬭奸謀不作姦民不語令行無變兵行無猜輕者若霆奮敵若驚舉功别德明如白黑令民從上令如四肢應心也前軍絶行亂陳破堅如潰者有以也此之謂兵敎所以開封疆守社稷除患害成武德也兵敎下第二十二臣聞人君有必勝之道故能并兼廣大以一其制度則威加天下有十二焉一曰連刑謂同罪保伍也二曰地禁謂禁止行道以網外奸也三曰全軍謂甲首相附三五相同以結其聮也四曰開塞謂分地以限各死其職而堅守也五曰分限謂左右相禁前後相待垣車為固以逆以止也六曰號别謂前列務進以别其後者不得爭先登不次也七曰五章謂彰明行列始卒不亂也八曰全曲謂曲折相從皆有分部也九曰金鼔謂興有功致有德也十曰陳車謂接連前矛馬冒其目也十一曰死士謂衆軍之中有材智者乘於戰車前後縱横出奇制敵也十二曰}
+  - {type: page-break, offset: 17, content: '', id: KR3b0006_WYG_005-2b, image: WYG0726/WYG0726-0086b.png}
+  - {type: page-break, offset: 17, content: '', id: KR3b0006_WYG_005-3a, image: WYG0726/WYG0726-0086c.png}
+  - {type: variant, offset: 17, length: 2, content: 背夫, krp: 有以也令守者必固戰者必鬭奸謀不作姦民不語令行無變兵行無猜輕者若霆奮敵若驚舉功别德明如白黑令民從上令如四肢應心也前軍絶行亂陳破堅如潰者有以也此之謂兵敎所以開封疆守社稷除患害成武德也兵敎下第二十二臣聞人君有必勝之道故能并兼廣大以一其制度則威加天下有十二焉一曰連刑謂同罪保伍也二曰地禁謂禁止行道以網外奸也三曰全軍謂甲首相附三五相同以結其聮也四曰開塞謂分地以限各死其職而堅守也五曰分限謂左右相禁前後相待垣車為固以逆以止也六曰號别謂前列務進以别其後者不得爭先登不次也七曰五章謂彰明行列始卒不亂也八曰全曲謂曲折相從皆有分部也九曰金鼔謂興有功致有德也十曰陳車謂接連前矛馬冒其目也十一曰死士謂衆軍之中有材智者乘於戰車前後縱横出奇制敵也十二曰}
+  - {type: punctuation, offset: 18, content: 。, id: KR3b0006_CHANT_005-bkkpn6}
+  - {type: 'tls:seg', offset: 18, content: '', id: KR3b0006_CHANT_005-1a.6}
+  - {type: variant, offset: 20, length: 0, content: '', WYG: 卒謂經其全曲不麾不動也此十二者敎成犯令不舍兵}
+  - {type: page-break, offset: 20, content: '', id: KR3b0006_WYG_005-3b, image: WYG0726/WYG0726-0086d.png}
+  - {type: variant, offset: 20, length: 0, content: '', krp: 卒謂經其全曲不麾不動也此十二者敎成犯令不舍兵}
+  - {type: variant, offset: 21, length: 0, content: '', WYG: 能強之主卑能尊之令弊能起之民流能親之人衆能治之地大能守之國車不出于閫組甲不出于橐而威服天下矣兵有五致為將忘家踰垠忘親指敵忘身必死則生急勝為下百人被刃陷行亂陳千人被刃擒敵殺將萬人被刃横行天下武王問太公望曰吾欲少間而極用人之要望對曰賞如山罰如谿太上無過其次補過使人無得私語諸罰而請不罰者死諸賞而請不賞者死伐國必因其變示之財以觀其窮示之弊以觀其病上乖下離若此之類是伐之因也凡興師必審内外之權以計其去兵有備闕糧食有餘不足校所出入之路然後興師伐亂必能入之地大而城小者必先收其地城大而地窄者必先攻其城地廣而人寡者則絶其阨地窄而人衆者則築大堙以臨之無喪其利無奪其時寛其政夷其業救其弊則足以施天下今戰國相攻大伐有德自伍而兩自兩而師不一其令率俾民心不定徒尚驕侈謀患辨訟吏究其事累且敗也日暮路逺還有剉氣師老將貪爭掠易敗凡將輕壘卑衆動可攻也將重壘髙衆懼可圍也凡圍必開其小利使漸夷弱則節吝有不食者矣衆夜擊者驚也衆避事者離也待人之救期戰而蹙皆心失而氣傷也傷氣敗軍曲謀敗國兵令上第二十三兵者凶器也爭者逆德也事必有本}
+  - {type: page-break, offset: 21, content: '', id: KR3b0006_WYG_005-4a, image: WYG0726/WYG0726-0087a.png}
+  - {type: page-break, offset: 21, content: '', id: KR3b0006_WYG_005-4b, image: WYG0726/WYG0726-0087b.png}
+  - {type: variant, offset: 21, length: 0, content: '', krp: 能強之主卑能尊之令弊能起之民流能親之人衆能治之地大能守之國車不出于閫組甲不出于橐而威服天下矣兵有五致為將忘家踰垠忘親指敵忘身必死則生急勝為下百人被刃陷行亂陳千人被刃擒敵殺將萬人被刃横行天下武王問太公望曰吾欲少間而極用人之要望對曰賞如山罰如谿太上無過其次補過使人無得私語諸罰而請不罰者死諸賞而請不賞者死伐國必因其變示之財以觀其窮示之弊以觀其病上乖下離若此之類是伐之因也凡興師必審内外之權以計其去兵有備闕糧食有餘不足校所出入之路然後興師伐亂必能入之地大而城小者必先收其地城大而地窄者必先攻其城地廣而人寡者則絶其阨地窄而人衆者則築大堙以臨之無喪其利無奪其時寛其政夷其業救其弊則足以施天下今戰國相攻大伐有德自伍而兩自兩而師不一其令率俾民心不定徒尚驕侈謀患辨訟吏究其事累且敗也日暮路逺還有剉氣師老將貪爭掠易敗凡將輕壘卑衆動可攻也將重壘髙衆懼可圍也凡圍必開其小利使漸夷弱則節吝有不食者矣衆夜擊者驚也衆避事者離也待人之救期戰而蹙皆心失而氣傷也傷氣敗軍曲謀敗國兵令上第二十三兵者凶器也爭者逆德也事必有本}
+  - {type: variant, offset: 22, length: 5, content: 進退不豪縱, WYG: 王者伐暴亂本仁義焉戰國則以立威抗}
+  - {type: variant, offset: 22, length: 5, content: 進退不豪縱, krp: 王者伐暴亂本仁義焉戰國則以立威抗}
+  - {type: punctuation, offset: 26, content: ，, id: KR3b0006_CHANT_005-bkkpn7}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR3b0006_CHANT_005-1a.7}
+  - {type: variant, offset: 28, length: 17, content: 不禽將吏士卒動靜一身心既疑背則計決, WYG: 相圗}
+  - {type: variant, offset: 28, length: 17, content: 不禽將吏士卒動靜一身心既疑背則計決, krp: 相圗}
+  - {type: punctuation, offset: 30, content: 。, id: KR3b0006_CHANT_005-bkkpn8}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR3b0006_CHANT_005-1a.8}
+  - {type: punctuation, offset: 34, content: ，, id: KR3b0006_CHANT_005-bkkpn9}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR3b0006_CHANT_005-1a.9}
+  - {type: punctuation, offset: 38, content: 。, id: KR3b0006_CHANT_005-bkkpn10}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR3b0006_CHANT_005-1a.10}
+  - {type: punctuation, offset: 42, content: ，, id: KR3b0006_CHANT_005-bkkpn11}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3b0006_CHANT_005-1a.11}
+  - {type: variant, offset: 47, length: 27, content: 動動決而不禁異口虛言將無修容卒無常試發攻必衄是謂疾陵之, WYG: 能廢}
+  - {type: variant, offset: 47, length: 27, content: 動動決而不禁異口虛言將無修容卒無常試發攻必衄是謂疾陵之, krp: 能廢}
+  - {type: punctuation, offset: 48, content: ，, id: KR3b0006_CHANT_005-bkkpn12}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR3b0006_CHANT_005-1a.12}
+  - {type: punctuation, offset: 53, content: 。, id: KR3b0006_CHANT_005-bkkpn13}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3b0006_CHANT_005-1a.13}
+  - {type: punctuation, offset: 57, content: ，, id: KR3b0006_CHANT_005-bkkpn14}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR3b0006_CHANT_005-1a.14}
+  - {type: punctuation, offset: 61, content: ，, id: KR3b0006_CHANT_005-bkkpn15}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3b0006_CHANT_005-1a.15}
+  - {type: punctuation, offset: 65, content: ，, id: KR3b0006_CHANT_005-bkkpn16}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR3b0006_CHANT_005-1a.16}
+  - {type: punctuation, offset: 69, content: ，, id: KR3b0006_CHANT_005-bkkpn17}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR3b0006_CHANT_005-1a.17}
+  - {type: punctuation, offset: 75, content: ，, id: KR3b0006_CHANT_005-bkkpn18}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3b0006_CHANT_005-1a.18}
+  - {type: variant, offset: 75, length: 6, content: 無足與鬭將帥, WYG: 也兵}
+  - {type: variant, offset: 75, length: 6, content: 無足與鬭將帥, krp: 也兵}
+  - {type: punctuation, offset: 79, content: 。, id: KR3b0006_CHANT_005-bkkpn19}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3b0006_CHANT_005-1a.19}
+  - {type: variant, offset: 82, length: 4, content: 心也群下, WYG: 以武為植以文為種武為表文為裏能審此二}
+  - {type: page-break, offset: 82, content: '', id: KR3b0006_WYG_005-5a, image: WYG0726/WYG0726-0087c.png}
+  - {type: variant, offset: 82, length: 4, content: 心也群下, krp: 以武為植以文為種武為表文為裏能審此二}
+  - {type: punctuation, offset: 84, content: ，, id: KR3b0006_CHANT_005-bkkpn20}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3b0006_CHANT_005-1a.20}
+  - {type: substitution, offset: 84, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: variant, offset: 87, length: 96, content: 支節也其心動以誠則支節必力其心動以疑則支節必背夫將不心制卒不節動雖勝幸勝也非攻權也夫民無兩畏也畏我侮敵畏敵侮我見侮者敗立威者勝凡將能其道者吏畏其將也吏畏其將者民畏其吏也民畏其吏者敵畏其民也是故, WYG: ''}
+  - {type: variant, offset: 87, length: 96, content: 支節也其心動以誠則支節必力其心動以疑則支節必背夫將不心制卒不節動雖勝幸勝也非攻權也夫民無兩畏也畏我侮敵畏敵侮我見侮者敗立威者勝凡將能其道者吏畏其將也吏畏其將者民畏其吏也民畏其吏者敵畏其民也是故, krp: ''}
+  - {type: punctuation, offset: 90, content: 。, id: KR3b0006_CHANT_005-bkkpn21}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR3b0006_CHANT_005-1a.21}
+  - {type: punctuation, offset: 95, content: ，, id: KR3b0006_CHANT_005-bkkpn22}
+  - {type: 'tls:seg', offset: 95, content: '', id: KR3b0006_CHANT_005-1a.22}
+  - {type: punctuation, offset: 100, content: ；, id: KR3b0006_CHANT_005-bkkpn23}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR3b0006_CHANT_005-1a.23}
+  - {type: punctuation, offset: 105, content: ，, id: KR3b0006_CHANT_005-bkkpn24}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3b0006_CHANT_005-1a.24}
+  - {type: punctuation, offset: 110, content: 。, id: KR3b0006_CHANT_005-bkkpn25}
+  - {type: 'tls:seg', offset: 110, content: '', id: KR3b0006_CHANT_005-1a.25}
+  - {type: punctuation, offset: 115, content: ，, id: KR3b0006_CHANT_005-bkkpn26}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3b0006_CHANT_005-1a.26}
+  - {type: punctuation, offset: 119, content: ，, id: KR3b0006_CHANT_005-bkkpn27}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR3b0006_CHANT_005-1a.27}
+  - {type: punctuation, offset: 121, content: ，, id: KR3b0006_CHANT_005-bkkpn28}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR3b0006_CHANT_005-1a.28}
+  - {type: punctuation, offset: 124, content: ，, id: KR3b0006_CHANT_005-bkkpn29}
+  - {type: 'tls:seg', offset: 124, content: '', id: KR3b0006_CHANT_005-1a.29}
+  - {type: punctuation, offset: 128, content: 。, id: KR3b0006_CHANT_005-bkkpn30}
+  - {type: xml-element, offset: 128, content: '', id: KR3b0006_CHANT_005-bkkxmlele4}
+  - {type: xml-element, offset: 128, content: '', id: KR3b0006_CHANT_005-bkkxmlele5}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3b0006_CHANT_005-2a.1}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3b0006_CHANT_005-2a.2}
+  - {type: punctuation, offset: 134, content: 。, id: KR3b0006_CHANT_005-bkkpn31}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR3b0006_CHANT_005-2a.3}
+  - {type: punctuation, offset: 138, content: ，, id: KR3b0006_CHANT_005-bkkpn32}
+  - {type: 'tls:seg', offset: 138, content: '', id: KR3b0006_CHANT_005-2a.4}
+  - {type: punctuation, offset: 142, content: 。, id: KR3b0006_CHANT_005-bkkpn33}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR3b0006_CHANT_005-2a.5}
+  - {type: punctuation, offset: 146, content: ，, id: KR3b0006_CHANT_005-bkkpn34}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR3b0006_CHANT_005-2a.6}
+  - {type: punctuation, offset: 150, content: 。, id: KR3b0006_CHANT_005-bkkpn35}
+  - {type: 'tls:seg', offset: 150, content: '', id: KR3b0006_CHANT_005-2a.7}
+  - {type: punctuation, offset: 156, content: ，, id: KR3b0006_CHANT_005-bkkpn36}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR3b0006_CHANT_005-2a.8}
+  - {type: punctuation, offset: 161, content: ；, id: KR3b0006_CHANT_005-bkkpn37}
+  - {type: 'tls:seg', offset: 161, content: '', id: KR3b0006_CHANT_005-2a.9}
+  - {type: punctuation, offset: 166, content: ，, id: KR3b0006_CHANT_005-bkkpn38}
+  - {type: 'tls:seg', offset: 166, content: '', id: KR3b0006_CHANT_005-2a.10}
+  - {type: punctuation, offset: 171, content: ；, id: KR3b0006_CHANT_005-bkkpn39}
+  - {type: 'tls:seg', offset: 171, content: '', id: KR3b0006_CHANT_005-2a.11}
+  - {type: punctuation, offset: 176, content: ，, id: KR3b0006_CHANT_005-bkkpn40}
+  - {type: 'tls:seg', offset: 176, content: '', id: KR3b0006_CHANT_005-2a.12}
+  - {type: punctuation, offset: 181, content: 。, id: KR3b0006_CHANT_005-bkkpn41}
+  - {type: 'tls:seg', offset: 181, content: '', id: KR3b0006_CHANT_005-2a.13}
+  - {type: variant, offset: 186, length: 0, content: '', WYG: 矣文所以視利害辨安危武所以犯強敵力攻守也專一則勝離散則敗陳以密則固鋒以疏則達卒畏將甚于敵者勝卒畏敵甚於將者敗所以知勝敗者稱將於敵也敵與將猶權衡焉安靜則治暴疾則亂出卒陳兵有常令行伍疏數有常法先後}
+  - {type: variant, offset: 186, length: 0, content: '', krp: 矣文所以視利害辨安危武所以犯強敵力攻守也專一則勝離散則敗陳以密則固鋒以疏則達卒畏將甚于敵者勝卒畏敵甚於將者敗所以知勝敗者稱將於敵也敵與將猶權衡焉安靜則治暴疾則亂出卒陳兵有常令行伍疏數有常法先後}
+  - {type: variant, offset: 187, length: 1, content: 道, WYG: 次有適宜常令}
+  - {type: variant, offset: 187, length: 1, content: 道, krp: 次有適宜常令}
+  - {type: punctuation, offset: 189, content: ，, id: KR3b0006_CHANT_005-bkkpn42}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR3b0006_CHANT_005-2a.14}
+  - {type: variant, offset: 189, length: 16, content: 必先知畏侮之權夫不愛說其心者不我, WYG: 非追北襲邑攸}
+  - {type: variant, offset: 189, length: 16, content: 必先知畏侮之權夫不愛說其心者不我, krp: 非追北襲邑攸}
+  - {type: punctuation, offset: 196, content: 。, id: KR3b0006_CHANT_005-bkkpn43}
+  - {type: xml-element, offset: 196, content: '', id: KR3b0006_CHANT_005-bkkxmlele6}
+  - {type: xml-element, offset: 196, content: '', id: KR3b0006_CHANT_005-bkkxmlele7}
+  - {type: 'tls:seg', offset: 196, content: '', id: KR3b0006_CHANT_005-3a.1}
+  - {type: 'tls:seg', offset: 196, content: '', id: KR3b0006_CHANT_005-3a.2}
+  - {type: punctuation, offset: 203, content: ，, id: KR3b0006_CHANT_005-bkkpn44}
+  - {type: 'tls:seg', offset: 203, content: '', id: KR3b0006_CHANT_005-3a.3}
+  - {type: punctuation, offset: 207, content: ；, id: KR3b0006_CHANT_005-bkkpn45}
+  - {type: 'tls:seg', offset: 207, content: '', id: KR3b0006_CHANT_005-3a.4}
+  - {type: variant, offset: 207, length: 0, content: '', WYG: 前後}
+  - {type: variant, offset: 207, length: 0, content: '', krp: 前後}
+  - {type: variant, offset: 208, length: 2, content: 嚴畏, WYG: 次則失也亂先後斬之常陳皆向敵有内向有外向有立陳有坐陳夫内向所以顧中也外向所以備外也立陳所以行也坐陳所以止也立坐之陳相參進止將在}
+  - {type: page-break, offset: 208, content: '', id: KR3b0006_WYG_005-5b, image: WYG0726/WYG0726-0087d.png}
+  - {type: variant, offset: 208, length: 2, content: 嚴畏, krp: 次則失也亂先後斬之常陳皆向敵有内向有外向有立陳有坐陳夫内向所以顧中也外向所以備外也立陳所以行也坐陳所以止也立坐之陳相參進止將在}
+  - {type: variant, offset: 211, length: 1, content: 心, WYG: 中坐之兵劒斧立之兵㦸弩將亦居中善御敵}
+  - {type: variant, offset: 211, length: 1, content: 心, krp: 中坐之兵劒斧立之兵㦸弩將亦居中善御敵}
+  - {type: punctuation, offset: 213, content: ，, id: KR3b0006_CHANT_005-bkkpn46}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR3b0006_CHANT_005-3a.5}
+  - {type: variant, offset: 213, length: 27, content: 不我舉也愛在下順威在上立愛故不二威故不犯故善將者愛與威, WYG: 正兵先合}
+  - {type: variant, offset: 213, length: 27, content: 不我舉也愛在下順威在上立愛故不二威故不犯故善將者愛與威, krp: 正兵先合}
+  - {type: punctuation, offset: 217, content: 。, id: KR3b0006_CHANT_005-bkkpn47}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR3b0006_CHANT_005-3a.6}
+  - {type: punctuation, offset: 221, content: ，, id: KR3b0006_CHANT_005-bkkpn48}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR3b0006_CHANT_005-3a.7}
+  - {type: punctuation, offset: 225, content: ；, id: KR3b0006_CHANT_005-bkkpn49}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR3b0006_CHANT_005-3a.8}
+  - {type: punctuation, offset: 229, content: ，, id: KR3b0006_CHANT_005-bkkpn50}
+  - {type: 'tls:seg', offset: 229, content: '', id: KR3b0006_CHANT_005-3a.9}
+  - {type: punctuation, offset: 233, content: 。, id: KR3b0006_CHANT_005-bkkpn51}
+  - {type: 'tls:seg', offset: 233, content: '', id: KR3b0006_CHANT_005-3a.10}
+  - {type: punctuation, offset: 237, content: ，, id: KR3b0006_CHANT_005-bkkpn52}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR3b0006_CHANT_005-3a.11}
+  - {type: variant, offset: 241, length: 3, content: 已戰不, WYG: 後扼之此}
+  - {type: variant, offset: 241, length: 3, content: 已戰不, krp: 後扼之此}
+  - {type: punctuation, offset: 242, content: 。, id: KR3b0006_CHANT_005-bkkpn53}
+  - {type: xml-element, offset: 242, content: '', id: KR3b0006_CHANT_005-bkkxmlele8}
+  - {type: xml-element, offset: 242, content: '', id: KR3b0006_CHANT_005-bkkxmlele9}
+  - {type: 'tls:seg', offset: 242, content: '', id: KR3b0006_CHANT_005-4a.1}
+  - {type: 'tls:seg', offset: 242, content: '', id: KR3b0006_CHANT_005-4a.2}
+  - {type: punctuation, offset: 246, content: ，, id: KR3b0006_CHANT_005-bkkpn54}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR3b0006_CHANT_005-4a.3}
+  - {type: variant, offset: 246, length: 0, content: '', WYG: 之術也陳之斧鉞飾之旗章有功必賞犯令必死存亡死生在枹之端雖天下有善兵者莫能禦此矣矢射未交長刃未接前譟者謂之虚後譟者謂之實}
+  - {type: variant, offset: 246, length: 0, content: '', krp: 之術也陳之斧鉞飾之旗章有功必賞犯令必死存亡死生在枹之端雖天下有善兵者莫能禦此矣矢射未交長刃未接前譟者謂之虚後譟者謂之實}
+  - {type: variant, offset: 247, length: 1, content: 可, WYG: 譟者謂之秘虚實秘者兵之體也兵令下第二十四諸去大軍為前禦之備者邊縣列侯各相去三五里聞大軍為前禦之備戰則皆禁行所}
+  - {type: page-break, offset: 247, content: '', id: KR3b0006_WYG_005-6a, image: WYG0726/WYG0726-0088a.png}
+  - {type: variant, offset: 247, length: 1, content: 可, krp: 譟者謂之秘虚實秘者兵之體也兵令下第二十四諸去大軍為前禦之備者邊縣列侯各相去三五里聞大軍為前禦之備戰則皆禁行所}
+  - {type: variant, offset: 249, length: 0, content: '', WYG: 安内也内卒出戍令將吏授旗鼓戈甲發日後將吏及出縣封界者以坐後戍法兵戍邊一歲遂亡不候代者法比亡軍父母妻子知之與同罪弗知赦之卒後將吏而至大將所一日父母妻子盡同罪卒逃歸至家一日父母妻子弗捕執及不}
+  - {type: variant, offset: 249, length: 0, content: '', krp: 安内也内卒出戍令將吏授旗鼓戈甲發日後將吏及出縣封界者以坐後戍法兵戍邊一歲遂亡不候代者法比亡軍父母妻子知之與同罪弗知赦之卒後將吏而至大將所一日父母妻子盡同罪卒逃歸至家一日父母妻子弗捕執及不}
+  - {type: variant, offset: 250, length: 0, content: '', WYG: 亦同罪諸}
+  - {type: variant, offset: 250, length: 0, content: '', krp: 亦同罪諸}
+  - {type: punctuation, offset: 251, content: ；, id: KR3b0006_CHANT_005-bkkpn55}
+  - {type: 'tls:seg', offset: 251, content: '', id: KR3b0006_CHANT_005-4a.4}
+  - {type: variant, offset: 251, length: 1, content: 攻, WYG: 而亡其將吏者及將吏棄卒獨北者盡斬之前吏棄其卒而北後吏能斬之而奪其卒者賞軍無功者戍三歲三軍大戰若大將死而從吏五百人以上}
+  - {type: page-break, offset: 251, content: '', id: KR3b0006_WYG_005-6b, image: WYG0726/WYG0726-0088b.png}
+  - {type: variant, offset: 251, length: 1, content: 攻, krp: 而亡其將吏者及將吏棄卒獨北者盡斬之前吏棄其卒而北後吏能斬之而奪其卒者賞軍無功者戍三歲三軍大戰若大將死而從吏五百人以上}
+  - {type: variant, offset: 253, length: 2, content: 必拔, WYG: 能死敵者斬大將左右近卒在陳中者皆斬餘士卒有軍功者奪一級無軍功者戍三歲戰亡伍人及伍人戰死}
+  - {type: variant, offset: 253, length: 2, content: 必拔, krp: 能死敵者斬大將左右近卒在陳中者皆斬餘士卒有軍功者奪一級無軍功者戍三歲戰亡伍人及伍人戰死}
+  - {type: punctuation, offset: 255, content: ，, id: KR3b0006_CHANT_005-bkkpn56}
+  - {type: 'tls:seg', offset: 255, content: '', id: KR3b0006_CHANT_005-4a.5}
+  - {type: variant, offset: 256, length: 4, content: 可以言攻, WYG: 得其屍同伍盡奪其功得其屍罪皆赦軍之利害在國之名實今名在官而實在家官}
+  - {type: variant, offset: 256, length: 4, content: 可以言攻, krp: 得其屍同伍盡奪其功得其屍罪皆赦軍之利害在國之名實今名在官而實在家官}
+  - {type: punctuation, offset: 260, content: 。, id: KR3b0006_CHANT_005-bkkpn57}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR3b0006_CHANT_005-4a.6}
+  - {type: variant, offset: 261, length: 4, content: 然雖刑賞, WYG: 得其實家不得其名聚卒為軍有空名而無實外}
+  - {type: variant, offset: 261, length: 4, content: 然雖刑賞, krp: 得其實家不得其名聚卒為軍有空名而無實外}
+  - {type: punctuation, offset: 262, content: ，, id: KR3b0006_CHANT_005-bkkpn58}
+  - {type: 'tls:seg', offset: 262, content: '', id: KR3b0006_CHANT_005-4a.7}
+  - {type: variant, offset: 267, length: 1, content: 信, WYG: 以禦敵内不足以守國此軍之所以不給將之所以奪威}
+  - {type: variant, offset: 267, length: 1, content: 信, krp: 以禦敵内不足以守國此軍之所以不給將之所以奪威}
+  - {type: punctuation, offset: 269, content: 。, id: KR3b0006_CHANT_005-bkkpn59}
+  - {type: 'tls:seg', offset: 269, content: '', id: KR3b0006_CHANT_005-4a.8}
+  - {type: variant, offset: 269, length: 13, content: 信在期前事在未兆故眾已聚不, WYG: 臣以謂卒逃歸者同舍伍人及吏罰入糧為饒名為軍實是有一軍之名而有二實之出國内空}
+  - {type: page-break, offset: 269, content: '', id: KR3b0006_WYG_005-7a, image: WYG0726/WYG0726-0088c.png}
+  - {type: variant, offset: 269, length: 13, content: 信在期前事在未兆故眾已聚不, krp: 臣以謂卒逃歸者同舍伍人及吏罰入糧為饒名為軍實是有一軍之名而有二實之出國内空}
+  - {type: punctuation, offset: 273, content: ，, id: KR3b0006_CHANT_005-bkkpn60}
+  - {type: 'tls:seg', offset: 273, content: '', id: KR3b0006_CHANT_005-4a.9}
+  - {type: punctuation, offset: 277, content: 。, id: KR3b0006_CHANT_005-bkkpn61}
+  - {type: 'tls:seg', offset: 277, content: '', id: KR3b0006_CHANT_005-4a.10}
+  - {type: substitution, offset: 278, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: variant, offset: 283, length: 1, content: 散, WYG: 自竭民歲曷以免奔北之禍乎今以法止逃歸禁亡軍是}
+  - {type: variant, offset: 283, length: 1, content: 散, krp: 自竭民歲曷以免奔北之禍乎今以法止逃歸禁亡軍是}
+  - {type: punctuation, offset: 284, content: ，, id: KR3b0006_CHANT_005-bkkpn62}
+  - {type: 'tls:seg', offset: 284, content: '', id: KR3b0006_CHANT_005-4a.11}
+  - {type: variant, offset: 285, length: 21, content: 已出不徒歸求敵若求亡子擊敵若救溺人分險者無, WYG: 之一勝也什伍相連及}
+  - {type: variant, offset: 285, length: 21, content: 已出不徒歸求敵若求亡子擊敵若救溺人分險者無, krp: 之一勝也什伍相連及}
+  - {type: punctuation, offset: 290, content: 。, id: KR3b0006_CHANT_005-bkkpn63}
+  - {type: 'tls:seg', offset: 290, content: '', id: KR3b0006_CHANT_005-4a.12}
+  - {type: punctuation, offset: 296, content: ，, id: KR3b0006_CHANT_005-bkkpn64}
+  - {type: 'tls:seg', offset: 296, content: '', id: KR3b0006_CHANT_005-4a.13}
+  - {type: punctuation, offset: 302, content: 。, id: KR3b0006_CHANT_005-bkkpn65}
+  - {type: xml-element, offset: 302, content: '', id: KR3b0006_CHANT_005-bkkxmlele10}
+  - {type: xml-element, offset: 302, content: '', id: KR3b0006_CHANT_005-bkkxmlele11}
+  - {type: 'tls:seg', offset: 302, content: '', id: KR3b0006_CHANT_005-5a.1}
+  - {type: 'tls:seg', offset: 302, content: '', id: KR3b0006_CHANT_005-5a.2}
+  - {type: variant, offset: 307, length: 66, content: 心挑戰者無全氣鬭戰者無勝兵凡挾義而戰者貴從我起爭私結怨應不得已怨結雖起待之貴後故爭必當待之息必當備之兵有勝於朝廷有勝於原野有勝於市井, WYG: ''}
+  - {type: variant, offset: 307, length: 66, content: 心挑戰者無全氣鬭戰者無勝兵凡挾義而戰者貴從我起爭私結怨應不得已怨結雖起待之貴後故爭必當待之息必當備之兵有勝於朝廷有勝於原野有勝於市井, krp: ''}
+  - {type: punctuation, offset: 308, content: ，, id: KR3b0006_CHANT_005-bkkpn66}
+  - {type: 'tls:seg', offset: 308, content: '', id: KR3b0006_CHANT_005-5a.3}
+  - {type: punctuation, offset: 314, content: ，, id: KR3b0006_CHANT_005-bkkpn67}
+  - {type: 'tls:seg', offset: 314, content: '', id: KR3b0006_CHANT_005-5a.4}
+  - {type: punctuation, offset: 320, content: 。, id: KR3b0006_CHANT_005-bkkpn68}
+  - {type: 'tls:seg', offset: 320, content: '', id: KR3b0006_CHANT_005-5a.5}
+  - {type: punctuation, offset: 326, content: ，, id: KR3b0006_CHANT_005-bkkpn69}
+  - {type: 'tls:seg', offset: 326, content: '', id: KR3b0006_CHANT_005-5a.6}
+  - {type: punctuation, offset: 330, content: ；, id: KR3b0006_CHANT_005-bkkpn70}
+  - {type: 'tls:seg', offset: 330, content: '', id: KR3b0006_CHANT_005-5a.7}
+  - {type: punctuation, offset: 334, content: ，, id: KR3b0006_CHANT_005-bkkpn71}
+  - {type: 'tls:seg', offset: 334, content: '', id: KR3b0006_CHANT_005-5a.8}
+  - {type: punctuation, offset: 338, content: 。, id: KR3b0006_CHANT_005-bkkpn72}
+  - {type: 'tls:seg', offset: 338, content: '', id: KR3b0006_CHANT_005-5a.9}
+  - {type: punctuation, offset: 342, content: ，, id: KR3b0006_CHANT_005-bkkpn73}
+  - {type: 'tls:seg', offset: 342, content: '', id: KR3b0006_CHANT_005-5a.10}
+  - {type: punctuation, offset: 346, content: 。, id: KR3b0006_CHANT_005-bkkpn74}
+  - {type: 'tls:seg', offset: 346, content: '', id: KR3b0006_CHANT_005-5a.11}
+  - {type: punctuation, offset: 352, content: ，, id: KR3b0006_CHANT_005-bkkpn75}
+  - {type: 'tls:seg', offset: 352, content: '', id: KR3b0006_CHANT_005-5a.12}
+  - {type: punctuation, offset: 357, content: 。, id: KR3b0006_CHANT_005-bkkpn76}
+  - {type: xml-element, offset: 357, content: '', id: KR3b0006_CHANT_005-bkkxmlele12}
+  - {type: xml-element, offset: 357, content: '', id: KR3b0006_CHANT_005-bkkxmlele13}
+  - {type: 'tls:seg', offset: 357, content: '', id: KR3b0006_CHANT_005-6a.1}
+  - {type: 'tls:seg', offset: 357, content: '', id: KR3b0006_CHANT_005-6a.2}
+  - {type: punctuation, offset: 363, content: ，, id: KR3b0006_CHANT_005-bkkpn77}
+  - {type: 'tls:seg', offset: 363, content: '', id: KR3b0006_CHANT_005-6a.3}
+  - {type: punctuation, offset: 368, content: ，, id: KR3b0006_CHANT_005-bkkpn78}
+  - {type: 'tls:seg', offset: 368, content: '', id: KR3b0006_CHANT_005-6a.4}
+  - {type: punctuation, offset: 373, content: 。, id: KR3b0006_CHANT_005-bkkpn79}
+  - {type: 'tls:seg', offset: 373, content: '', id: KR3b0006_CHANT_005-6a.5}
+  - {type: variant, offset: 375, length: 17, content: 得服則失幸以不敗此不意彼驚懼而曲勝, WYG: 卒吏相救是兵}
+  - {type: variant, offset: 375, length: 17, content: 得服則失幸以不敗此不意彼驚懼而曲勝, krp: 卒吏相救是兵}
+  - {type: punctuation, offset: 376, content: ，, id: KR3b0006_CHANT_005-bkkpn80}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR3b0006_CHANT_005-6a.6}
+  - {type: punctuation, offset: 379, content: ，, id: KR3b0006_CHANT_005-bkkpn81}
+  - {type: 'tls:seg', offset: 379, content: '', id: KR3b0006_CHANT_005-6a.7}
+  - {type: punctuation, offset: 383, content: ，, id: KR3b0006_CHANT_005-bkkpn82}
+  - {type: 'tls:seg', offset: 383, content: '', id: KR3b0006_CHANT_005-6a.8}
+  - {type: variant, offset: 393, length: 32, content: 也曲勝言非全也非全勝者無權名故明主戰攻日合鼓合角節以兵刃不求勝而, WYG: 二}
+  - {type: variant, offset: 393, length: 32, content: 也曲勝言非全也非全勝者無權名故明主戰攻日合鼓合角節以兵刃不求勝而, krp: 二}
+  - {type: punctuation, offset: 394, content: 。, id: KR3b0006_CHANT_005-bkkpn83}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR3b0006_CHANT_005-6a.9}
+  - {type: punctuation, offset: 396, content: ，, id: KR3b0006_CHANT_005-bkkpn84}
+  - {type: 'tls:seg', offset: 396, content: '', id: KR3b0006_CHANT_005-6a.10}
+  - {type: punctuation, offset: 400, content: 。, id: KR3b0006_CHANT_005-bkkpn85}
+  - {type: 'tls:seg', offset: 400, content: '', id: KR3b0006_CHANT_005-6a.11}
+  - {type: punctuation, offset: 407, content: 。, id: KR3b0006_CHANT_005-bkkpn86}
+  - {type: 'tls:seg', offset: 407, content: '', id: KR3b0006_CHANT_005-6a.12}
+  - {type: punctuation, offset: 413, content: ，, id: KR3b0006_CHANT_005-bkkpn87}
+  - {type: 'tls:seg', offset: 413, content: '', id: KR3b0006_CHANT_005-6a.13}
+  - {type: punctuation, offset: 417, content: ，, id: KR3b0006_CHANT_005-bkkpn88}
+  - {type: 'tls:seg', offset: 417, content: '', id: KR3b0006_CHANT_005-6a.14}
+  - {type: punctuation, offset: 421, content: ，, id: KR3b0006_CHANT_005-bkkpn89}
+  - {type: 'tls:seg', offset: 421, content: '', id: KR3b0006_CHANT_005-6a.15}
+  - {type: punctuation, offset: 427, content: 。, id: KR3b0006_CHANT_005-bkkpn90}
+  - {type: xml-element, offset: 427, content: '', id: KR3b0006_CHANT_005-bkkxmlele14}
+  - {type: xml-element, offset: 427, content: '', id: KR3b0006_CHANT_005-bkkxmlele15}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR3b0006_CHANT_005-7a.1}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR3b0006_CHANT_005-7a.2}
+  - {type: variant, offset: 427, length: 0, content: '', WYG: 將能立威卒能節制號令明信攻守皆得是}
+  - {type: variant, offset: 427, length: 0, content: '', krp: 將能立威卒能節制號令明信攻守皆得是}
+  - {type: variant, offset: 428, length: 4, content: 有去備徹, WYG: 之三勝也臣聞古之善用兵者能殺士卒之半其次殺其十三其次殺其十一能殺其半者}
+  - {type: variant, offset: 428, length: 4, content: 有去備徹, krp: 之三勝也臣聞古之善用兵者能殺士卒之半其次殺其十三其次殺其十一能殺其半者}
+  - {type: variant, offset: 433, length: 2, content: 而勝, WYG: 加海内殺十三}
+  - {type: variant, offset: 433, length: 2, content: 而勝, krp: 加海内殺十三}
+  - {type: punctuation, offset: 436, content: ，, id: KR3b0006_CHANT_005-bkkpn91}
+  - {type: 'tls:seg', offset: 436, content: '', id: KR3b0006_CHANT_005-7a.3}
+  - {type: variant, offset: 436, length: 4, content: 以其有法, WYG: 力加諸侯殺十一者令行士卒}
+  - {type: variant, offset: 436, length: 4, content: 以其有法, krp: 力加諸侯殺十一者令行士卒}
+  - {type: variant, offset: 441, length: 0, content: '', WYG: 曰百萬之衆不用命不如萬人之鬭}
+  - {type: variant, offset: 441, length: 0, content: '', krp: 曰百萬之衆不用命不如萬人之鬭}
+  - {type: punctuation, offset: 442, content: 。, id: KR3b0006_CHANT_005-bkkpn92}
+  - {type: 'tls:seg', offset: 442, content: '', id: KR3b0006_CHANT_005-7a.4}
+  - {type: variant, offset: 442, length: 3, content: 有器用, WYG: 萬人}
+  - {type: variant, offset: 442, length: 3, content: 有器用, krp: 萬人}
+  - {type: variant, offset: 446, length: 22, content: 早定也其應敵也周其總率也極故五人而伍十人而什, WYG: 鬭不如}
+  - {type: variant, offset: 446, length: 22, content: 早定也其應敵也周其總率也極故五人而伍十人而什, krp: 鬭不如}
+  - {type: punctuation, offset: 449, content: ，, id: KR3b0006_CHANT_005-bkkpn93}
+  - {type: 'tls:seg', offset: 449, content: '', id: KR3b0006_CHANT_005-7a.5}
+  - {type: punctuation, offset: 454, content: ，, id: KR3b0006_CHANT_005-bkkpn94}
+  - {type: 'tls:seg', offset: 454, content: '', id: KR3b0006_CHANT_005-7a.6}
+  - {type: punctuation, offset: 459, content: 。, id: KR3b0006_CHANT_005-bkkpn95}
+  - {type: 'tls:seg', offset: 459, content: '', id: KR3b0006_CHANT_005-7a.7}
+  - {type: punctuation, offset: 464, content: ，, id: KR3b0006_CHANT_005-bkkpn96}
+  - {type: 'tls:seg', offset: 464, content: '', id: KR3b0006_CHANT_005-7a.8}
+  - {type: punctuation, offset: 468, content: ，, id: KR3b0006_CHANT_005-bkkpn97}
+  - {type: 'tls:seg', offset: 468, content: '', id: KR3b0006_CHANT_005-7a.9}
+  - {type: variant, offset: 470, length: 9, content: 而卒千人而率萬人而, WYG: 之奮也賞如明月信如四時令如斧鉞制如干}
+  - {type: page-break, offset: 470, content: '', id: KR3b0006_WYG_005-7b, image: WYG0726/WYG0726-0088d.png}
+  - {type: variant, offset: 470, length: 9, content: 而卒千人而率萬人而, krp: 之奮也賞如明月信如四時令如斧鉞制如干}
+  - {type: punctuation, offset: 472, content: ，, id: KR3b0006_CHANT_005-bkkpn98}
+  - {type: 'tls:seg', offset: 472, content: '', id: KR3b0006_CHANT_005-7a.10}
+  - {type: punctuation, offset: 476, content: ，, id: KR3b0006_CHANT_005-bkkpn99}
+  - {type: 'tls:seg', offset: 476, content: '', id: KR3b0006_CHANT_005-7a.11}
+  - {type: punctuation, offset: 480, content: ，, id: KR3b0006_CHANT_005-bkkpn100}
+  - {type: 'tls:seg', offset: 480, content: '', id: KR3b0006_CHANT_005-7a.12}
+  - {type: variant, offset: 480, length: 96, content: 已周已極其朝死則朝代暮死則暮代權敵審將而後舉兵故凡集兵千里者旬日百里者一日必集敵境卒聚將至深入其地錯絕其道栖其大城大邑使之登城逼危男女數重各逼地形而攻要塞據一城邑而數道絕從而攻之敵將帥不能信吏, WYG: 士}
+  - {type: variant, offset: 480, length: 96, content: 已周已極其朝死則朝代暮死則暮代權敵審將而後舉兵故凡集兵千里者旬日百里者一日必集敵境卒聚將至深入其地錯絕其道栖其大城大邑使之登城逼危男女數重各逼地形而攻要塞據一城邑而數道絕從而攻之敵將帥不能信吏, krp: 士}
+  - {type: punctuation, offset: 484, content: 。, id: KR3b0006_CHANT_005-bkkpn101}
+  - {type: 'tls:seg', offset: 484, content: '', id: KR3b0006_CHANT_005-7a.13}
+  - {type: punctuation, offset: 490, content: ，, id: KR3b0006_CHANT_005-bkkpn102}
+  - {type: 'tls:seg', offset: 490, content: '', id: KR3b0006_CHANT_005-7a.14}
+  - {type: punctuation, offset: 495, content: 。, id: KR3b0006_CHANT_005-bkkpn103}
+  - {type: 'tls:seg', offset: 495, content: '', id: KR3b0006_CHANT_005-7a.15}
+  - {type: punctuation, offset: 503, content: 。, id: KR3b0006_CHANT_005-bkkpn104}
+  - {type: xml-element, offset: 503, content: '', id: KR3b0006_CHANT_005-bkkxmlele16}
+  - {type: xml-element, offset: 503, content: '', id: KR3b0006_CHANT_005-bkkxmlele17}
+  - {type: 'tls:seg', offset: 503, content: '', id: KR3b0006_CHANT_005-8a.1}
+  - {type: 'tls:seg', offset: 503, content: '', id: KR3b0006_CHANT_005-8a.2}
+  - {type: punctuation, offset: 507, content: ，, id: KR3b0006_CHANT_005-bkkpn105}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR3b0006_CHANT_005-8a.3}
+  - {type: punctuation, offset: 512, content: ，, id: KR3b0006_CHANT_005-bkkpn106}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR3b0006_CHANT_005-8a.4}
+  - {type: punctuation, offset: 517, content: ，, id: KR3b0006_CHANT_005-bkkpn107}
+  - {type: 'tls:seg', offset: 517, content: '', id: KR3b0006_CHANT_005-8a.5}
+  - {type: punctuation, offset: 521, content: 。, id: KR3b0006_CHANT_005-bkkpn108}
+  - {type: 'tls:seg', offset: 521, content: '', id: KR3b0006_CHANT_005-8a.6}
+  - {type: punctuation, offset: 525, content: ，, id: KR3b0006_CHANT_005-bkkpn109}
+  - {type: 'tls:seg', offset: 525, content: '', id: KR3b0006_CHANT_005-8a.7}
+  - {type: punctuation, offset: 529, content: ，, id: KR3b0006_CHANT_005-bkkpn110}
+  - {type: 'tls:seg', offset: 529, content: '', id: KR3b0006_CHANT_005-8a.8}
+  - {type: substitution, offset: 530, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 533, content: ，, id: KR3b0006_CHANT_005-bkkpn111}
+  - {type: 'tls:seg', offset: 533, content: '', id: KR3b0006_CHANT_005-8a.9}
+  - {type: punctuation, offset: 539, content: 。, id: KR3b0006_CHANT_005-bkkpn112}
+  - {type: 'tls:seg', offset: 539, content: '', id: KR3b0006_CHANT_005-8a.10}
+  - {type: punctuation, offset: 545, content: ，, id: KR3b0006_CHANT_005-bkkpn113}
+  - {type: 'tls:seg', offset: 545, content: '', id: KR3b0006_CHANT_005-8a.11}
+  - {type: punctuation, offset: 549, content: ，, id: KR3b0006_CHANT_005-bkkpn114}
+  - {type: 'tls:seg', offset: 549, content: '', id: KR3b0006_CHANT_005-8a.12}
+  - {type: punctuation, offset: 557, content: 。, id: KR3b0006_CHANT_005-bkkpn115}
+  - {type: 'tls:seg', offset: 557, content: '', id: KR3b0006_CHANT_005-8a.13}
+  - {type: substitution, offset: 564, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 565, content: ，, id: KR3b0006_CHANT_005-bkkpn116}
+  - {type: 'tls:seg', offset: 565, content: '', id: KR3b0006_CHANT_005-8a.14}
+  - {type: punctuation, offset: 569, content: 。, id: KR3b0006_CHANT_005-bkkpn117}
+  - {type: 'tls:seg', offset: 569, content: '', id: KR3b0006_CHANT_005-8a.15}
+  - {type: punctuation, offset: 575, content: ，, id: KR3b0006_CHANT_005-bkkpn118}
+  - {type: 'tls:seg', offset: 575, content: '', id: KR3b0006_CHANT_005-8a.16}
+  - {type: variant, offset: 578, length: 7, content: 能和刑有所不從, WYG: 用命}
+  - {type: variant, offset: 578, length: 7, content: 能和刑有所不從, krp: 用命}
+  - {type: punctuation, offset: 580, content: ，, id: KR3b0006_CHANT_005-bkkpn119}
+  - {type: 'tls:seg', offset: 580, content: '', id: KR3b0006_CHANT_005-8a.17}
+  - {type: punctuation, offset: 586, content: ，, id: KR3b0006_CHANT_005-bkkpn120}
+  - {type: 'tls:seg', offset: 586, content: '', id: KR3b0006_CHANT_005-8a.18}
+  - {type: variant, offset: 586, length: 3, content: 則我敗, WYG: 未}
+  - {type: variant, offset: 586, length: 3, content: 則我敗, krp: 未}
+  - {type: variant, offset: 590, length: 52, content: 矣敵救未至而一城已降津梁未發要塞未脩城險未設渠答未張則雖有城無守矣遠堡未入戍客未歸則雖有人無人矣六畜未聚, WYG: 聞也尉繚子卷}
+  - {type: variant, offset: 590, length: 52, content: 矣敵救未至而一城已降津梁未發要塞未脩城險未設渠答未張則雖有城無守矣遠堡未入戍客未歸則雖有人無人矣六畜未聚, krp: 聞也尉繚子卷}
+  - {type: punctuation, offset: 591, content: 。, id: KR3b0006_CHANT_005-bkkpn121}
+  - {type: 'tls:seg', offset: 591, content: '', id: KR3b0006_CHANT_005-8a.19}
+  - {type: punctuation, offset: 595, content: ，, id: KR3b0006_CHANT_005-bkkpn122}
+  - {type: 'tls:seg', offset: 595, content: '', id: KR3b0006_CHANT_005-8a.20}
+  - {type: punctuation, offset: 600, content: 。, id: KR3b0006_CHANT_005-bkkpn123}
+  - {type: xml-element, offset: 600, content: '', id: KR3b0006_CHANT_005-bkkxmlele18}
+  - {type: xml-element, offset: 600, content: '', id: KR3b0006_CHANT_005-bkkxmlele19}
+  - {type: 'tls:seg', offset: 600, content: '', id: KR3b0006_CHANT_005-9a.1}
+  - {type: 'tls:seg', offset: 600, content: '', id: KR3b0006_CHANT_005-9a.2}
+  - {type: punctuation, offset: 604, content: ，, id: KR3b0006_CHANT_005-bkkpn124}
+  - {type: 'tls:seg', offset: 604, content: '', id: KR3b0006_CHANT_005-9a.3}
+  - {type: substitution, offset: 607, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
+  - {type: punctuation, offset: 608, content: ，, id: KR3b0006_CHANT_005-bkkpn125}
+  - {type: 'tls:seg', offset: 608, content: '', id: KR3b0006_CHANT_005-9a.4}
+  - {type: punctuation, offset: 612, content: ，, id: KR3b0006_CHANT_005-bkkpn126}
+  - {type: 'tls:seg', offset: 612, content: '', id: KR3b0006_CHANT_005-9a.5}
+  - {type: punctuation, offset: 616, content: ，, id: KR3b0006_CHANT_005-bkkpn127}
+  - {type: 'tls:seg', offset: 616, content: '', id: KR3b0006_CHANT_005-9a.6}
+  - {type: punctuation, offset: 620, content: 、, id: KR3b0006_CHANT_005-bkkpn128}
+  - {type: punctuation, offset: 623, content: 。, id: KR3b0006_CHANT_005-bkkpn129}
+  - {type: 'tls:seg', offset: 623, content: '', id: KR3b0006_CHANT_005-9a.7}
+  - {type: punctuation, offset: 627, content: ，, id: KR3b0006_CHANT_005-bkkpn130}
+  - {type: 'tls:seg', offset: 627, content: '', id: KR3b0006_CHANT_005-9a.8}
+  - {type: punctuation, offset: 631, content: ，, id: KR3b0006_CHANT_005-bkkpn131}
+  - {type: 'tls:seg', offset: 631, content: '', id: KR3b0006_CHANT_005-9a.9}
+  - {type: punctuation, offset: 635, content: 、, id: KR3b0006_CHANT_005-bkkpn132}
+  - {type: punctuation, offset: 638, content: 。, id: KR3b0006_CHANT_005-bkkpn133}
+  - {type: 'tls:seg', offset: 638, content: '', id: KR3b0006_CHANT_005-9a.10}
+  - {type: punctuation, offset: 642, content: ，, id: KR3b0006_CHANT_005-bkkpn134}
+  - {type: 'tls:seg', offset: 642, content: '', id: KR3b0006_CHANT_005-9a.11}
+  - {type: variant, offset: 643, length: 47, content: 穀未收財用未歛則雖有資無資矣夫城邑空虛而資盡者我因其虛而攻之法曰獨出獨入敵不接刃而致之此之謂也, WYG: ''}
+  - {type: variant, offset: 643, length: 47, content: 穀未收財用未歛則雖有資無資矣夫城邑空虛而資盡者我因其虛而攻之法曰獨出獨入敵不接刃而致之此之謂也, krp: ''}
+  - {type: punctuation, offset: 646, content: ，, id: KR3b0006_CHANT_005-bkkpn135}
+  - {type: 'tls:seg', offset: 646, content: '', id: KR3b0006_CHANT_005-9a.12}
+  - {type: substitution, offset: 649, original: 歛, replacement: 斂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1114}}
+  - {type: punctuation, offset: 650, content: ，, id: KR3b0006_CHANT_005-bkkpn136}
+  - {type: 'tls:seg', offset: 650, content: '', id: KR3b0006_CHANT_005-9a.13}
+  - {type: punctuation, offset: 654, content: 、, id: KR3b0006_CHANT_005-bkkpn137}
+  - {type: punctuation, offset: 657, content: 。, id: KR3b0006_CHANT_005-bkkpn138}
+  - {type: 'tls:seg', offset: 657, content: '', id: KR3b0006_CHANT_005-9a.14}
+  - {type: punctuation, offset: 666, content: ，, id: KR3b0006_CHANT_005-bkkpn139}
+  - {type: 'tls:seg', offset: 666, content: '', id: KR3b0006_CHANT_005-9a.15}
+  - {type: punctuation, offset: 673, content: 。, id: KR3b0006_CHANT_005-bkkpn140}
+  - {type: 'tls:seg', offset: 673, content: '', id: KR3b0006_CHANT_005-9a.16}
+  - {type: punctuation, offset: 675, content: ：, id: KR3b0006_CHANT_005-bkkpn141}
+  - {type: 'tls:seg', offset: 675, content: '', id: KR3b0006_CHANT_005-9a.17}
+  - {type: punctuation, offset: 675, content: 「, id: KR3b0006_CHANT_005-bkkpn142}
+  - {type: punctuation, offset: 679, content: ，, id: KR3b0006_CHANT_005-bkkpn143}
+  - {type: 'tls:seg', offset: 679, content: '', id: KR3b0006_CHANT_005-9a.18}
+  - {type: punctuation, offset: 686, content: 。, id: KR3b0006_CHANT_005-bkkpn144}
+  - {type: punctuation, offset: 686, content: 」, id: KR3b0006_CHANT_005-bkkpn145}
+  - {type: 'tls:seg', offset: 686, content: '', id: KR3b0006_CHANT_005-9a.19}
+  - {type: punctuation, offset: 690, content: 。, id: KR3b0006_CHANT_005-bkkpn146}
+  - {type: xml-element, offset: 690, content: '', id: KR3b0006_CHANT_005-bkkxmlele20}
+  back: []
+hash: sha256:5a3d3456a01d1e8aa5fe0047de0a1553843cc5e291d57d5f1a70a885eef8b5f2

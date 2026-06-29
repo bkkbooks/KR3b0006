@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0006/chant/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 伍制令軍中之制五人為伍伍相保也十人為什什相保也五十人為屬屬相保也百人為閭閭相保也伍有干令犯禁者揭之免於罪知而弗揭全伍有誅什有干令犯禁者揭之免於罪知而弗揭全什有誅屬有干令犯禁者揭之免於罪知而弗揭全屬有誅閭有干令犯禁者揭之免於罪知而弗揭全閭有誅吏自什長已上至左右將上下皆相保也有干令犯禁者揭之免於罪知而弗揭者皆與同罪夫什伍相結上下相聯無有不得之姦無有不揭之罪父不得以私其子兄不得以私其弟而況國人聚舍同食烏能以干令相私者哉
+  hash: sha256:b970f4b1dc124e717bd685cb6124488e9c03641549c4b4f72e6fa50b9e5ed2d7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0006_CHANT_014-1a.1-h}
+metadata:
+  title: 尉繚子
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0006.xml
+hash: sha256:8643b934591ba745cacd3a543f1406e6d9bd58fa061d1b305ab77c022fad6690

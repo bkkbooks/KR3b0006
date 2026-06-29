@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0006/chant/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 踵軍令所謂踵軍者去大軍百里期於會地為三日熟食前軍而行為戰合之表合表乃起踵軍饗士使為之戰勢是謂趨戰者也興軍者前踵軍而行合表乃起去大軍一倍其道去踵軍百里期於會地為六日熟食使為戰備分卒據要害戰利則追北按兵而趨之踵軍遇有還者誅之所謂諸將之兵在四奇之內者勝也兵有什伍有分有合豫為之職守要塞關梁而分居之戰合表起即皆會也大軍為計日之食起戰具無不及也令行而起不如令者有誅凡稱分塞者四境之內當興軍踵軍既行則四境之民無得行者奉王之命授持符節名為順職之吏非順職之吏而行者誅之戰合表起順職之吏乃行用以相參故欲戰先安內也
+  hash: sha256:53f96b6be49f34c478638f670d1bec140794fae8cef832cba7798b9f786117e0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0006_CHANT_020-1a.1-h}
+metadata:
+  title: 尉繚子
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0006.xml
+hash: sha256:d0683f4826804d387a153ddde5888c6cee3dc000c3a19efed52314e3ec0ad4df

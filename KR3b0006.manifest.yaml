@@ -1,0 +1,312 @@
+canonical_identifier: bkk:krp/KR3b0006/v1
+canonical_location: https://kanripo.org/bkk/KR3b0006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 尉繚子
+  identifiers:
+    krp: KR3b0006
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR3b
+    tls-internal: tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0006.xml
+  edition:
+    short: bkk
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3b0006_001.yaml, hash: 'sha256:1e81a43e6edfde7fc5dd4a65000713a35cb14e6113416473a3bed6337f809f0c'}
+  - {seq: 2, filename: KR3b0006_002.yaml, hash: 'sha256:cfb219492d5ee67b46a864ca66f522ec34610fb146aa4e2ddbce41885af3a64c'}
+  - {seq: 3, filename: KR3b0006_003.yaml, hash: 'sha256:8f8da47978c1d05040f091f5bda60563609ba98c7e49ab69d5e42c1cd7f09202'}
+  - {seq: 4, filename: KR3b0006_004.yaml, hash: 'sha256:fb1d56da6f71d4b3733b249f8ffea68348204f17dbd50f1a01fd59c0507f7c18'}
+  - {seq: 5, filename: KR3b0006_005.yaml, hash: 'sha256:7a720006ac24979901cb892f695ad98a77442098c562225fd596cee84f757438'}
+  - {seq: 6, filename: KR3b0006_006.yaml, hash: 'sha256:649203a06b06dcb046ba36b132f274da9ff4f647585ea21cfb4466be547a2c9a'}
+  - {seq: 7, filename: KR3b0006_007.yaml, hash: 'sha256:204581ccdc13dd4d524f42350331b7d0e0d5fc938f00bc7811f20f02247ca1c7'}
+  - {seq: 8, filename: KR3b0006_008.yaml, hash: 'sha256:d9c58c4ee27f07d4907dcbb4e92c188a71cfba235f0d32c775f8e4a3d025de5b'}
+  - {seq: 9, filename: KR3b0006_009.yaml, hash: 'sha256:743c519cab691bd9d479ef0805fb6860802a3ce99eb4a29486128cd7a292bdf4'}
+  - {seq: 10, filename: KR3b0006_010.yaml, hash: 'sha256:00371931de0aef71ddd8e2aec7e57130971f6fc10f6c8bcf5cc515f2080219be'}
+  - {seq: 11, filename: KR3b0006_011.yaml, hash: 'sha256:350b0131d9403210b95dad13704ad1bb45211fe97417c7d2516349c1db984a91'}
+  - {seq: 12, filename: KR3b0006_012.yaml, hash: 'sha256:5af14a987b263ab4b2fb2c82173ac64cd26e7e370d2d3ffb6af591d9044acf7b'}
+  - {seq: 13, filename: KR3b0006_013.yaml, hash: 'sha256:0203df75d0ae796b5597f8ff3099f9cb572d9380cb7b216413448a77c10dc7f9'}
+  - {seq: 14, filename: KR3b0006_014.yaml, hash: 'sha256:8643b934591ba745cacd3a543f1406e6d9bd58fa061d1b305ab77c022fad6690'}
+  - {seq: 15, filename: KR3b0006_015.yaml, hash: 'sha256:759b8c9ace1f329597b5e10bba1a99cd60c2ae70aa4ff903a257fd4b714acaf6'}
+  - {seq: 16, filename: KR3b0006_016.yaml, hash: 'sha256:467ba79d53ba6da4cd0fc4ba74cd58667b139c28b1cfb62f948edad8b208ac1d'}
+  - {seq: 17, filename: KR3b0006_017.yaml, hash: 'sha256:716a6bf9e1134d87c1f10295072ece4c02931bfc2e37f55ab3b04d0f3b77427a'}
+  - {seq: 18, filename: KR3b0006_018.yaml, hash: 'sha256:80c7bbaf804ca1cb33a7bf1f4ec7c44b0db12a4ecb1803c41c752e709d33d464'}
+  - {seq: 19, filename: KR3b0006_019.yaml, hash: 'sha256:0f6ce8b3c2344cdb5999b0dec45dfa9f2c06617421500396af3796735952730f'}
+  - {seq: 20, filename: KR3b0006_020.yaml, hash: 'sha256:d0683f4826804d387a153ddde5888c6cee3dc000c3a19efed52314e3ec0ad4df'}
+  - {seq: 21, filename: KR3b0006_021.yaml, hash: 'sha256:43f83bc7bd9a4648012d77694238f2a34fe572b5f0b62794d436c6f3903372e8'}
+  - {seq: 22, filename: KR3b0006_022.yaml, hash: 'sha256:c3c5d7ecae3cade90017b54eebb056e6d2d31e56572b383ef0d9d04fe2ddf954'}
+  - {seq: 23, filename: KR3b0006_023.yaml, hash: 'sha256:09ebf71aa7ebc37ae0cd80e95e7db068eeafd1458a20b2282f67ab048c9cf8f6'}
+  - {seq: 24, filename: KR3b0006_024.yaml, hash: 'sha256:7065ed8e3258742b37d41742bf34072c262779b5c8b3225a56333323ba8f8411'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3b0006_001.markers.yaml, hash: 'sha256:6ef1eb4d44e78639b21dcb8c5a0abfa272b682e7fb989612215a5fffd4af8cd9'}
+  - {seq: 2, role: markers, filename: assets/KR3b0006_002.markers.yaml, hash: 'sha256:2fe480c54a698e1727dfc24a3c8fced253519f8649d189767adb3cee19a2745f'}
+  - {seq: 3, role: markers, filename: assets/KR3b0006_003.markers.yaml, hash: 'sha256:16d11ad6c782aeed15c5332cf88b321254aeff64711d93ad2fd16a2f587f814c'}
+  - {seq: 4, role: markers, filename: assets/KR3b0006_004.markers.yaml, hash: 'sha256:dd361adf96a4a305ec528b64a69c7758ee3668100940f586cb1950f9169e8c7b'}
+  - {seq: 5, role: markers, filename: assets/KR3b0006_005.markers.yaml, hash: 'sha256:5a3d3456a01d1e8aa5fe0047de0a1553843cc5e291d57d5f1a70a885eef8b5f2'}
+  - {seq: 6, role: markers, filename: assets/KR3b0006_006.markers.yaml, hash: 'sha256:7eb161584d6ee1f4e5c06a8809cb6dfb1bb22a49ba9e1ae6da40b3304965f489'}
+  - {seq: 7, role: markers, filename: assets/KR3b0006_007.markers.yaml, hash: 'sha256:a056cf1fa43c6c572bd417b4ef6e556a9b18a10d5059673ec9b0877be68f3d11'}
+  - {seq: 8, role: markers, filename: assets/KR3b0006_008.markers.yaml, hash: 'sha256:8b2864f78530ea406485269e296b3259401237efaf5a329b7fbe1c357804bb59'}
+  - {seq: 10, role: markers, filename: assets/KR3b0006_010.markers.yaml, hash: 'sha256:33214eac367b2af7e23f80f7406d7fa8e801616d213cf2c908bbde53f427d5bc'}
+  - {seq: 11, role: markers, filename: assets/KR3b0006_011.markers.yaml, hash: 'sha256:c26a67844a27fd4ad5b460286daff317e60e5caae2af12ddd2941a22b1dc379b'}
+  - {seq: 12, role: markers, filename: assets/KR3b0006_012.markers.yaml, hash: 'sha256:279ae75e4e29836480d62fa9d2e7c648f93f50d6a276c66f41a1795e33085e54'}
+  - {seq: 13, role: markers, filename: assets/KR3b0006_013.markers.yaml, hash: 'sha256:da28a553bd1de185ef3e2a6827697c6851b55a726067217e2e4da246d268297c'}
+  - {seq: 17, role: markers, filename: assets/KR3b0006_017.markers.yaml, hash: 'sha256:9296000cedd6da25dbea19953f1961a1a3f8706f68067ec1ddbef12ff2a8c5cc'}
+  - {seq: 18, role: markers, filename: assets/KR3b0006_018.markers.yaml, hash: 'sha256:d63953b07400c458d0156882543523bfb05404e456700b2c535124357cdff7ae'}
+  - {seq: 21, role: markers, filename: assets/KR3b0006_021.markers.yaml, hash: 'sha256:98b22b5216333e874451e6360da0c16a7ba2d750f734b12bdf356ca27ac3f21d'}
+  - {seq: 22, role: markers, filename: assets/KR3b0006_022.markers.yaml, hash: 'sha256:3c978118641fe47744330e80a2e28b7bac05a6cfad9b2b999a584aad650e8a7f'}
+  - {seq: 23, role: markers, filename: assets/KR3b0006_023.markers.yaml, hash: 'sha256:556a4639157fdd726fa76301ade22b75f4fe23209ea46b506374bb001abfbf8a'}
+  - {seq: 24, role: markers, filename: assets/KR3b0006_024.markers.yaml, hash: 'sha256:799faba284d5ff85782f15310b4fe3af967eb58c1ae41d134d3cf1915d0984da'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3b0006_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 302
+  label: 天官
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3b0006_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 359
+  label: 兵談
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3b0006_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 828
+  label: 制談
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3b0006_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 836
+  label: 戰威
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3b0006_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 690
+  label: 攻權
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3b0006_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 380
+  label: 守權
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3b0006_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 138
+  label: 十二陵
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3b0006_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 1020
+  label: 武議
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3b0006_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 272
+  label: 將理
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3b0006_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 257
+  label: 原官
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3b0006_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 509
+  label: 治本
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3b0006_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 286
+  label: 戰權
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3b0006_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 108
+  label: 重刑令
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3b0006_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 208
+  label: 伍制令
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3b0006_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 160
+  label: 分塞令
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3b0006_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 150
+  label: 束伍令
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3b0006_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 214
+  label: 經卒令
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3b0006_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 313
+  label: 勒卒令
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3b0006_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 109
+  label: 將令
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3b0006_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 247
+  label: 踵軍令
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3b0006_CHANT_021-1a.1-h
+    span:
+    - body
+    - 0
+    - 507
+  label: 兵教上
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3b0006_CHANT_022-1a.1-h
+    span:
+    - body
+    - 0
+    - 666
+  label: 兵教下
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3b0006_CHANT_023-1a.1-h
+    span:
+    - body
+    - 0
+    - 420
+  label: 兵令上
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3b0006_CHANT_024-1a.1-h
+    span:
+    - body
+    - 0
+    - 526
+  label: 兵令下
+  type: section
+  level: 1
+hash: sha256:790172527ae0572890fd355cc763de7dcc14a8c24b191db1824ff4d00440014f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

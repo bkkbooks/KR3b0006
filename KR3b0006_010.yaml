@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0006/chant/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 原官官者事之所主為治之本也制者職分四民治之分也貴爵富祿必稱尊卑之體也好善罰惡正比法會計民之具也均井地節賦斂取與之度也程工人備器用匠工之功也分地塞要殄怪禁淫之事也守法稽斷臣下之節也明法稽驗主上之操也明主守等輕重臣主之權也明賞賚嚴誅責止姦之術也審開塞守一道為政之要也下達上通至聰之聽也知國有無之數用其仂也知彼弱者強之體也知彼動者靜之決也官分文武惟王之二術也俎豆同制天子之會也遊說間諜無自入正議之術也諸侯有謹天子之禮君民繼世承王之命也更造易常違王明德故禮得以伐也官無事治上無慶賞民無獄訟國無商賈何王之至明舉上達在王垂聽也
+  hash: sha256:baca42603f898670781663c1d1af978f0f291883fa17d13b0aa75d70386a1173
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0006_CHANT_010-1a.1-h}
+metadata:
+  title: 尉繚子
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0006.xml
+hash: sha256:00371931de0aef71ddd8e2aec7e57130971f6fc10f6c8bcf5cc515f2080219be

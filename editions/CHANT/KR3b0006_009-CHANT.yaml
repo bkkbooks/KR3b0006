@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0006/chant/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 將理凡將理官也萬物之主也不私於一人夫能無私於一人故萬物至而制之萬物至而命之君子不救囚於五步之外雖鉤矢射之弗追也故善審囚之情不待箠楚而囚之情可畢矣笞人之背灼人之脅束人之指而訊囚之情雖國士有不勝其酷而自誣矣今世諺云千金不死百金不刑試聽臣之言行臣之術雖有堯舜之智不能關一言雖有萬金不能用一銖今夫決獄小圄不下十數中圄不下百數大圄不下千數十人聯百人之事百人聯千人之事千人聯萬人之事所聯之者親戚兄弟也其次婚姻也其次知識故人也是農無不離其田業賈無不離其肆宅士大夫無不離其官府如此關聯良民皆囚之情也兵法曰十萬之師出日費千金今良民十萬而聯於囹圄上不能省臣以為危也
+  hash: sha256:69e2c7108d95342265d4fb91a89f4e53f6f8e73d05ab7fa502391e81a888ea8c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0006_CHANT_009-1a.1-h}
+metadata:
+  title: 尉繚子
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0006.xml
+hash: sha256:743c519cab691bd9d479ef0805fb6860802a3ce99eb4a29486128cd7a292bdf4

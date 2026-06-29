@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0006/chant/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分塞令中軍左右前後軍皆有地分方之以行垣而無通其交往將有分地帥有分地伯有分地皆營其溝域而明其塞令使非百人無得通非其百人而入者伯誅之伯不誅與之同罪軍中縱橫之道百有二十步而立一府柱量人與地柱道相望禁行清道非將吏之符節不得通行采薪之牧者皆成行伍不成行伍者不得通行吏屬無節士無伍者橫門誅之踰分干地者誅之故內無干令犯禁則外無不獲之姦
+  hash: sha256:5dea5debed5fb6543ecd8fb6f34754a01f18c6113f3fefaa4d2f3af42a7fc36c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0006_CHANT_015-1a.1-h}
+metadata:
+  title: 尉繚子
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0006.xml
+hash: sha256:759b8c9ace1f329597b5e10bba1a99cd60c2ae70aa4ff903a257fd4b714acaf6
