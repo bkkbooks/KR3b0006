@@ -83,7 +83,6 @@ markers:
   - {type: variant, offset: 82, length: 4, content: 心也群下, krp: 以武為植以文為種武為表文為裏能審此二}
   - {type: punctuation, offset: 84, content: ，, id: KR3b0006_CHANT_005-bkkpn20}
   - {type: 'tls:seg', offset: 84, content: '', id: KR3b0006_CHANT_005-1a.20}
-  - {type: substitution, offset: 84, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: variant, offset: 87, length: 96, content: 支節也其心動以誠則支節必力其心動以疑則支節必背夫將不心制卒不節動雖勝幸勝也非攻權也夫民無兩畏也畏我侮敵畏敵侮我見侮者敗立威者勝凡將能其道者吏畏其將也吏畏其將者民畏其吏也民畏其吏者敵畏其民也是故, WYG: ''}
   - {type: variant, offset: 87, length: 96, content: 支節也其心動以誠則支節必力其心動以疑則支節必背夫將不心制卒不節動雖勝幸勝也非攻權也夫民無兩畏也畏我侮敵畏敵侮我見侮者敗立威者勝凡將能其道者吏畏其將也吏畏其將者民畏其吏也民畏其吏者敵畏其民也是故, krp: ''}
   - {type: punctuation, offset: 90, content: 。, id: KR3b0006_CHANT_005-bkkpn21}
@@ -217,7 +216,6 @@ markers:
   - {type: 'tls:seg', offset: 273, content: '', id: KR3b0006_CHANT_005-4a.9}
   - {type: punctuation, offset: 277, content: 。, id: KR3b0006_CHANT_005-bkkpn61}
   - {type: 'tls:seg', offset: 277, content: '', id: KR3b0006_CHANT_005-4a.10}
-  - {type: substitution, offset: 278, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 283, length: 1, content: 散, WYG: 自竭民歲曷以免奔北之禍乎今以法止逃歸禁亡軍是}
   - {type: variant, offset: 283, length: 1, content: 散, krp: 自竭民歲曷以免奔北之禍乎今以法止逃歸禁亡軍是}
   - {type: punctuation, offset: 284, content: ，, id: KR3b0006_CHANT_005-bkkpn62}
@@ -357,7 +355,6 @@ markers:
   - {type: 'tls:seg', offset: 525, content: '', id: KR3b0006_CHANT_005-8a.7}
   - {type: punctuation, offset: 529, content: ，, id: KR3b0006_CHANT_005-bkkpn110}
   - {type: 'tls:seg', offset: 529, content: '', id: KR3b0006_CHANT_005-8a.8}
-  - {type: substitution, offset: 530, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 533, content: ，, id: KR3b0006_CHANT_005-bkkpn111}
   - {type: 'tls:seg', offset: 533, content: '', id: KR3b0006_CHANT_005-8a.9}
   - {type: punctuation, offset: 539, content: 。, id: KR3b0006_CHANT_005-bkkpn112}
@@ -368,7 +365,6 @@ markers:
   - {type: 'tls:seg', offset: 549, content: '', id: KR3b0006_CHANT_005-8a.12}
   - {type: punctuation, offset: 557, content: 。, id: KR3b0006_CHANT_005-bkkpn115}
   - {type: 'tls:seg', offset: 557, content: '', id: KR3b0006_CHANT_005-8a.13}
-  - {type: substitution, offset: 564, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 565, content: ，, id: KR3b0006_CHANT_005-bkkpn116}
   - {type: 'tls:seg', offset: 565, content: '', id: KR3b0006_CHANT_005-8a.14}
   - {type: punctuation, offset: 569, content: 。, id: KR3b0006_CHANT_005-bkkpn117}
@@ -396,7 +392,6 @@ markers:
   - {type: 'tls:seg', offset: 600, content: '', id: KR3b0006_CHANT_005-9a.2}
   - {type: punctuation, offset: 604, content: ，, id: KR3b0006_CHANT_005-bkkpn124}
   - {type: 'tls:seg', offset: 604, content: '', id: KR3b0006_CHANT_005-9a.3}
-  - {type: substitution, offset: 607, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 608, content: ，, id: KR3b0006_CHANT_005-bkkpn125}
   - {type: 'tls:seg', offset: 608, content: '', id: KR3b0006_CHANT_005-9a.4}
   - {type: punctuation, offset: 612, content: ，, id: KR3b0006_CHANT_005-bkkpn126}
@@ -419,7 +414,6 @@ markers:
   - {type: variant, offset: 643, length: 47, content: 穀未收財用未歛則雖有資無資矣夫城邑空虛而資盡者我因其虛而攻之法曰獨出獨入敵不接刃而致之此之謂也, krp: ''}
   - {type: punctuation, offset: 646, content: ，, id: KR3b0006_CHANT_005-bkkpn135}
   - {type: 'tls:seg', offset: 646, content: '', id: KR3b0006_CHANT_005-9a.12}
-  - {type: substitution, offset: 649, original: 歛, replacement: 斂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1114}}
   - {type: punctuation, offset: 650, content: ，, id: KR3b0006_CHANT_005-bkkpn136}
   - {type: 'tls:seg', offset: 650, content: '', id: KR3b0006_CHANT_005-9a.13}
   - {type: punctuation, offset: 654, content: 、, id: KR3b0006_CHANT_005-bkkpn137}
@@ -440,4 +434,4 @@ markers:
   - {type: punctuation, offset: 690, content: 。, id: KR3b0006_CHANT_005-bkkpn146}
   - {type: xml-element, offset: 690, content: '', id: KR3b0006_CHANT_005-bkkxmlele20}
   back: []
-hash: sha256:5a3d3456a01d1e8aa5fe0047de0a1553843cc5e291d57d5f1a70a885eef8b5f2
+hash: sha256:ba320867f06e030c8c72d464d1edc1790d68468ed77e95e49661b9739b0d0e85

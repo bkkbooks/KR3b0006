@@ -144,7 +144,6 @@ markers:
   - {type: variant, offset: 110, length: 1, content: 民, krp: 粟}
   - {type: variant, offset: 111, length: 1, content: 眾, WYG: 一}
   - {type: variant, offset: 111, length: 1, content: 眾, krp: 一}
-  - {type: substitution, offset: 111, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 112, length: 1, content: 而, WYG: 斗}
   - {type: variant, offset: 112, length: 1, content: 而, krp: 斗}
   - {type: variant, offset: 113, length: 1, content: 治, WYG: 馬}
@@ -344,10 +343,9 @@ markers:
   - {type: variant, offset: 345, length: 14, content: 不騰陵張膽絕乎疑慮堂堂決而去, krp: 事治上無慶賞民無獄訟國無商賈何王之至也明舉上達在王垂聽也尉繚子卷二}
   - {type: punctuation, offset: 350, content: ，, id: KR3b0006_CHANT_002-bkkpn74}
   - {type: 'tls:seg', offset: 350, content: '', id: KR3b0006_CHANT_002-4a.29}
-  - {type: substitution, offset: 350, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 354, content: ，, id: KR3b0006_CHANT_002-bkkpn75}
   - {type: 'tls:seg', offset: 354, content: '', id: KR3b0006_CHANT_002-4a.30}
   - {type: punctuation, offset: 359, content: 。, id: KR3b0006_CHANT_002-bkkpn76}
   - {type: xml-element, offset: 359, content: '', id: KR3b0006_CHANT_002-bkkxmlele10}
   back: []
-hash: sha256:2fe480c54a698e1727dfc24a3c8fced253519f8649d189767adb3cee19a2745f
+hash: sha256:238379bf508c996c7bf694ff5ab9ba5d34928efae960b2c43633173917e98139
